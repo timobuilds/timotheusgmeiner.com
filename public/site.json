@@ -1,0 +1,1650 @@
+{
+  "content": {
+    "about": {
+      "copy": "I help innovative leaders de-risk, prototype, and position frontier technologies.",
+      "statements": [
+        "Strategies that build trust.",
+        "Prototypes that prove value.",
+        "Stories that move people."
+      ],
+      "workCopy": "My work delivers productized hw/sw automations, defensible intellectual property, and/or enterprise strategies that bring applied science to market.",
+      "outcomes": [
+        "Countless prototypes.",
+        "Multiple products.",
+        "One exit."
+      ]
+    },
+    "clients": {
+      "intro": "I have worked with leadership teams and innovation teams large and small.",
+      "list": [
+        "Worldcoin",
+        "Richemont",
+        "Nike",
+        "Autodesk",
+        "Siemens Energy",
+        "Continental",
+        "RocketLab(SI)",
+        "Chipcare Corporation",
+        "Ventripoint Diagnostics",
+        "Rolls-Royce Aero",
+        "Morgan Solar",
+        "BionikLabs",
+        "Synaptive Medical",
+        "Nia Technologies",
+        "Christian Blind Mission",
+        "University of Toronto"
+      ]
+    },
+    "contact": {
+      "name": "Timotheus Gmeiner",
+      "contacts": {
+        "linkedin": "https://www.linkedin.com/in/timotheus-gmeiner-83b4ba43/",
+        "twitter": "https://x.com/timobuilds",
+        "github": "https://github.com/timobuilds",
+        "substack": "https://labsnacks.substack.com/"
+      }
+    },
+    "principles": [
+      "Sharpen your thinking.",
+      "Be who you needed.",
+      "Play long games.",
+      "Share your gifts.",
+      "Be intentional.",
+      "Have faith.",
+      "Have fun.",
+      "Aim high."
+    ],
+    "talks": [
+      {
+        "text": "How to prepare for the AI future in Automotive Design. Car Design News Talk.",
+        "active": true
+      },
+      {
+        "text": "Building AI strategy. Talk for Automotive Innovation Forum 2025.",
+        "active": false
+      },
+      {
+        "text": "Harnessing new technologies towards a balanced human/machine relationship. (Closed talk for Richemont).",
+        "active": true
+      },
+      {
+        "text": "Solving business problems with AI. Toronto Machine Learning Workshop.",
+        "active": true
+      }
+    ],
+    "articles": [
+      "AI for Designers - April 1, 2020",
+      "Six Steps to Social Product Design - April 1, 2020",
+      "Consumer Gradient Ascent: AI for Requirements Engineering - April 1, 2020",
+      "Large Language Models: The Opportunity for Manufacturers - April 1, 2020",
+      "Design Ethics for a Machine Age - April 1, 2020",
+      "Win with Additive Manufacturing - April 1, 2020",
+      "Brains, Brawn, and Beauty in Robotics - April 1, 2020",
+      "Augmented Engineering Intelligence - April 1, 2020",
+      "Reframing Generative Design - April 1, 2020"
+    ]
+  },
+  "projects": [
+    {
+      "id": "ju-optical-test-fixtures-and-production-har",
+      "slug": "optical-test-fixtures-and-production-hardware",
+      "title": "Optical Test Fixtures and Production Hardware",
+      "stage": "junior",
+      "company": "Morgan Solar",
+      "roles": [
+        "Mechanical Design",
+        "Manufacturing Fixtures"
+      ],
+      "industries": [
+        "Energy",
+        "Optics"
+      ],
+      "domains": [
+        "Production",
+        "Test"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Fixtures and pneumatic jigs to ramp optical assembly production.",
+      "situation": "Physicist-founders commercializing a Fresnel-lens CPV product.",
+      "action": "Developed optical testing fixtures and pneumatic assembly jigs to support production ramp.",
+      "result": "Increased production led to UAE pilots and achievement of investor targets.",
+      "metrics": {},
+      "lesson": "Selling the future is core to deep-tech.",
+      "tech": [],
+      "tags": [
+        "manufacturing",
+        "scale-up"
+      ],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.linkedin.com/in/timotheus-gmeiner-83b4ba43/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/optical-test-fixtures-and-production-hardware.png"
+      ]
+    },
+    {
+      "id": "ju-turbofan-engine-structures",
+      "slug": "turbofan-engine-structures",
+      "title": "Turbofan Engine Structures",
+      "stage": "junior",
+      "company": "Rolls-Royce Aero Engines",
+      "roles": [
+        "Structures"
+      ],
+      "industries": [
+        "Aerospace"
+      ],
+      "domains": [
+        "Aero Structures"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Interface management and structural design support on BR700-series engines.",
+      "situation": "Engineering division building structures and drives for Bombardier BR700-series turbofans.",
+      "action": "Managed design interfaces across engine systems; assisted in structural component design.",
+      "result": "Supported multiple design changes to structural engine components.",
+      "metrics": {},
+      "lesson": "Manage requirements or descend into development chaos.",
+      "tech": [],
+      "tags": [],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://en.wikipedia.org/wiki/Rolls-Royce_BR700"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/turbofan-engine-structures.png"
+      ]
+    },
+    {
+      "id": "ju-prosthetic-quality-assurance",
+      "slug": "prosthetic-quality-assurance",
+      "title": "Prosthetic Quality Assurance",
+      "stage": "junior",
+      "company": "Autodesk Foundation",
+      "roles": [
+        "Test Engineering"
+      ],
+      "industries": [
+        "Med-Tech"
+      ],
+      "domains": [
+        "QA",
+        "Standards"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "ISO-10328 verification hardware & protocols for scan-to-print trans-tibial prosthetics.",
+      "situation": "Researchers needed to validate a scan-to-print prosthetic solution.",
+      "action": "Developed mechanical testing hardware and verification protocols; beta-tested in Entebbe, Uganda.",
+      "result": "Validated system spun into Nia Technologies serving amputees worldwide.",
+      "metrics": {},
+      "lesson": "Users want to be involved in developing solutions.",
+      "tech": [],
+      "tags": [
+        "ISO-10328"
+      ],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.linkedin.com/in/timotheus-gmeiner-83b4ba43/"
+        },
+        {
+          "type": "link",
+          "url": "https://www.iso.org/standard/70205.html"
+        },
+        {
+          "type": "link",
+          "url": "https://www.niatech.org/"
+        },
+        {
+          "type": "link",
+          "url": "https://www.research.autodesk.com/app/uploads/2023/03/3dprinted-prosthetics-for-the.pdf_recy5wktAGLbzrEko.pdf"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/prosthetic-quality-assurance.png"
+      ]
+    },
+    {
+      "id": "in-exoskeleton-structural-redesign",
+      "slug": "exoskeleton-structural-redesign",
+      "title": "Exoskeleton Structural Redesign",
+      "stage": "intermediate",
+      "company": "Bionik Labs",
+      "roles": [
+        "Mechanical Lead"
+      ],
+      "industries": [
+        "Med-Tech"
+      ],
+      "domains": [
+        "Robotics",
+        "Structures"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Lightweight structural redesign for mobility-assist exoskeleton.",
+      "situation": "Rehab robotics team exploring future paths for a discontinued line.",
+      "action": "Redesigned all structural components for the assist device.",
+      "result": "Built a functional lightweight prototype before cancellation.",
+      "metrics": {},
+      "lesson": "Avoid vanity projects.",
+      "tech": [],
+      "tags": [],
+      "status": "archived",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.linkedin.com/in/timotheus-gmeiner-83b4ba43/"
+        },
+        {
+          "type": "link",
+          "url": "https://bioniklabs.com/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/exoskeleton.png"
+      ]
+    },
+    {
+      "id": "in-cardiac-ultrasound-probe-development",
+      "slug": "cardiac-ultrasound-probe-development",
+      "title": "Cardiac Ultrasound Probe Development",
+      "stage": "intermediate",
+      "company": "Ventripoint Diagnostics",
+      "roles": [
+        "Mechanical Lead"
+      ],
+      "industries": [
+        "Med-Tech",
+        "Imaging"
+      ],
+      "domains": [
+        "Ultrasound",
+        "Medical Devices"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Mechanical development for AI-driven volumetric cardiac ultrasound systems.",
+      "situation": "Startup commercializing 3D reconstruction enabling volumetric cardiac imaging at fraction of MRI cost.",
+      "action": "Led mechanical development for all prototype and production systems.",
+      "result": "Multiple system versions released to hospitals worldwide.",
+      "metrics": {},
+      "lesson": "Communicating constraints is half the solution.",
+      "tech": [],
+      "tags": [],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://ventripoint.com/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/cardiacultultrasound.png"
+      ]
+    },
+    {
+      "id": "in-tech-scouting",
+      "slug": "tech-scouting",
+      "title": "Tech Scouting",
+      "stage": "intermediate",
+      "company": "Autodesk",
+      "roles": [
+        "Venture Scouting"
+      ],
+      "industries": [
+        "CAD",
+        "Research"
+      ],
+      "domains": [
+        "Open Innovation",
+        "Partnerships"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Startup/academic pipeline build for research grants & partnerships.",
+      "situation": "Research director required qualified startup/academic pipeline to allocate grants and validate engagement strategy.",
+      "action": "Built targeted network across NA/EU; sourced teams and partners.",
+      "result": "Established several partnerships for CTO office.",
+      "metrics": {},
+      "lesson": "The bar for 'new' is often lower than you think.",
+      "tech": [],
+      "tags": [],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.linkedin.com/in/timotheus-gmeiner-83b4ba43/"
+        },
+        {
+          "type": "link",
+          "url": "https://www.research.autodesk.com/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/tech-scouting.png"
+      ]
+    },
+    {
+      "id": "in-neurosurgeon-training-device",
+      "slug": "neurosurgeon-training-device",
+      "title": "Neurosurgeon Training Device",
+      "stage": "intermediate",
+      "company": "Synaptive Medical",
+      "roles": [
+        "R&D Engineering"
+      ],
+      "industries": [
+        "Med-Tech"
+      ],
+      "domains": [
+        "Simulation",
+        "Training"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "MRI/CT/US-compatible tissue simulators scaled from research to production.",
+      "situation": "Polymer chemists studying nanoparticle-doped PVA cryogels' tactile & imaging properties.",
+      "action": "Developed simulators from literature review and prototyping to production scale-up.",
+      "result": "Launched products replacing cadavers in neurosurgical training worldwide.",
+      "metrics": {},
+      "lesson": "Chemistry is magic.",
+      "tech": [
+        "PVA Cryogels"
+      ],
+      "tags": [],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.synaptivemedical.com/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/neurosurgeon-training-device.png"
+      ]
+    },
+    {
+      "id": "in-robotic-workflow-training-device",
+      "slug": "robotic-workflow-training-device",
+      "title": "Robotic Workflow Training Device",
+      "stage": "intermediate",
+      "company": "Synaptive Medical",
+      "roles": [
+        "Product Engineering"
+      ],
+      "industries": [
+        "Med-Tech"
+      ],
+      "domains": [
+        "Robotics",
+        "Training"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Training device to accelerate adoption of a robotic monoscope procedure.",
+      "situation": "Robotics team built tool-tracking monoscope for port-based neurosurgery.",
+      "action": "Co-developed with Duke neurosurgeon; designed onboarding device.",
+      "result": "Training device delivered; expanded concept patented but not built.",
+      "metrics": {},
+      "lesson": "Doctors want to invent impactful products too.",
+      "tech": [],
+      "tags": [],
+      "status": "pilot",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.synaptivemedical.com/"
+        },
+        {
+          "type": "link",
+          "url": "https://patents.google.com/patent/US20180116724A1/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/robotic-workflow-training-device.png"
+      ]
+    },
+    {
+      "id": "in-mri-quality-control-device",
+      "slug": "mri-quality-control-device",
+      "title": "MRI Quality Control Device",
+      "stage": "intermediate",
+      "company": "Synaptive Medical",
+      "roles": [
+        "R&D",
+        "Process Dev"
+      ],
+      "industries": [
+        "Med-Tech",
+        "Imaging"
+      ],
+      "domains": [
+        "Calibration",
+        "DTI"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "FDA-cleared diffusion phantom for consistent DTI calibration.",
+      "situation": "MR physicists needed a calibration instrument for 0.5T MRI prototype.",
+      "action": "Co-developed phantom; prototyped, tested, and scaled a reliable process.",
+      "result": "Provides consistent baseline for scanner calibration; supports disease tracking.",
+      "metrics": {},
+      "lesson": "Play encourages invention.",
+      "tech": [
+        "Polymers",
+        "DTI"
+      ],
+      "tags": [],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.synaptivemedical.com/"
+        },
+        {
+          "type": "link",
+          "url": "https://patents.google.com/patent/US9880251B2/"
+        },
+        {
+          "type": "link",
+          "url": "https://archive.ismrm.org/2016/3061.html"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/dti.png"
+      ]
+    },
+    {
+      "id": "in-pathology-automation-instruments",
+      "slug": "pathology-automation-instruments",
+      "title": "Pathology Automation Instruments",
+      "stage": "intermediate",
+      "company": "Synaptive Medical",
+      "roles": [
+        "Mechanical Engineering"
+      ],
+      "industries": [
+        "Med-Tech",
+        "Imaging"
+      ],
+      "domains": [
+        "Spectroscopy",
+        "Manufacturing"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Mechanicals for Raman/OCT diagnostic prototypes to production.",
+      "situation": "Optical physicists developing spectroscopy prototypes for brain biopsy imaging.",
+      "action": "Redesigned mechanicals for cost-efficient scaled production.",
+      "result": "Raman system launched; next-gen handheld probe IP created.",
+      "metrics": {},
+      "lesson": "Federated learning will shape disease classification at scale.",
+      "tech": [
+        "Raman",
+        "OCT"
+      ],
+      "tags": [],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.synaptivemedical.com/"
+        },
+        {
+          "type": "link",
+          "url": "https://patents.google.com/patent/US20180344130A1/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/diagnostics-1.png"
+      ]
+    },
+    {
+      "id": "in-head-trauma-mri-machine",
+      "slug": "head-trauma-mri-machine",
+      "title": "Head Trauma MRI Machine",
+      "stage": "intermediate",
+      "company": "Synaptive Medical",
+      "roles": [
+        "Mechanical Systems"
+      ],
+      "industries": [
+        "Med-Tech",
+        "Imaging"
+      ],
+      "domains": [
+        "MRI",
+        "Production"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Subsystem development for 0.5T low-field ER MRI.",
+      "situation": "Team tasked to transfer prototype into manufacturable, approved system.",
+      "action": "Developed head-coil, patient support, and enclosure subsystems.",
+      "result": "Production launch of 0.5T ER trauma MRI.",
+      "metrics": {},
+      "lesson": "Vendor relationships matter: pay peanuts, get monkeys.",
+      "tech": [],
+      "tags": [],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.synaptivemedical.com/"
+        },
+        {
+          "type": "link",
+          "url": "https://www.synaptivemedical.com/products/mri/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/mri.png"
+      ]
+    },
+    {
+      "id": "in-microsatellite-test-hardware",
+      "slug": "microsatellite-test-hardware",
+      "title": "Microsatellite Test Hardware",
+      "stage": "intermediate",
+      "company": "Rocket Lab",
+      "roles": [
+        "Manufacturing Engineering"
+      ],
+      "industries": [
+        "Aerospace"
+      ],
+      "domains": [
+        "Optics",
+        "Production Test"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Production fixtures and ground-station mounts for star-trackers & reaction wheels.",
+      "situation": "Space component firm scaling star-tracker and reaction wheel production.",
+      "action": "Built optical QA fixtures and an optical ground-station mount system.",
+      "result": "Prototype ground station deployed; fixtures used in production.",
+      "metrics": {},
+      "lesson": "Bootstrapped space companies can thrive.",
+      "tech": [],
+      "tags": [],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.rocketlabusa.com/"
+        },
+        {
+          "type": "link",
+          "url": "https://www.rocketlabusa.com/space-systems/satellite-components/star-trackers/"
+        },
+        {
+          "type": "link",
+          "url": "https://www.rocketlabusa.com/space-systems/satellite-components/reaction-wheels/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/microsatellite-test-hardware.png"
+      ]
+    },
+    {
+      "id": "ad-blankai",
+      "slug": "blankai",
+      "title": "BlankAI",
+      "stage": "advanced",
+      "company": "PCH Innovations → Autodesk",
+      "roles": [
+        "Product Lead",
+        "Commercialization"
+      ],
+      "industries": [
+        "Tools",
+        "Generative AI"
+      ],
+      "domains": [
+        "3D GenAI",
+        "Design Tools"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Productized early 3D GenAI; pivoted to partnership; sold tech & team to Autodesk.",
+      "situation": "Studio needed commercialization for 3D GenAI research.",
+      "action": "Led productization; pivoted to corporate partnership.",
+      "result": "Now integrating AI into Autodesk Alias/VRED after acquisition.",
+      "metrics": {},
+      "lesson": "Understand and protect your worth.",
+      "tech": [
+        "Diffusion Models"
+      ],
+      "tags": [
+        "acquisition",
+        "spinout"
+      ],
+      "status": "shipped",
+      "confidentiality": "partial",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://pch-innovations.com/"
+        },
+        {
+          "type": "link",
+          "url": "https://develop3d.com/plm/autodesk-lays-the-foundations-for-ai/"
+        },
+        {
+          "type": "link",
+          "url": "https://www.autodesk.com/products/alias-products/overview"
+        },
+        {
+          "type": "link",
+          "url": "https://www.autodesk.com/products/vred/overview"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/blankai.png"
+      ]
+    },
+    {
+      "id": "ad-ai-research-collaboration",
+      "slug": "ai-research-collaboration",
+      "title": "AI Research Collaboration",
+      "stage": "advanced",
+      "company": "NVIDIA AI Lab",
+      "roles": [
+        "Research Collaborator"
+      ],
+      "industries": [
+        "Tools",
+        "AI Research"
+      ],
+      "domains": [
+        "GenAI",
+        "3D"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Collaboration to publish characterization of prior 3D GenAI research.",
+      "situation": "After failed seed raise and team attrition, pursued NVIDIA collaboration.",
+      "action": "Opened pathways between research and marketing; co-authored paper.",
+      "result": "Published XDGAN; no core-tech improvement achieved.",
+      "metrics": {},
+      "lesson": "Bitter lemons can make sweet lemonade.",
+      "tech": [],
+      "tags": [],
+      "status": "published",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://research.nvidia.com/labs/toronto-ai/"
+        },
+        {
+          "type": "link",
+          "url": "https://research.nvidia.com/labs/toronto-ai/XDGAN/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/ai-research-collaboration.png"
+      ]
+    },
+    {
+      "id": "ad-circular-r-d-strategy",
+      "slug": "circular-r-d-strategy",
+      "title": "Circular R&D Strategy",
+      "stage": "advanced",
+      "company": "Continental",
+      "roles": [
+        "Strategy"
+      ],
+      "industries": [
+        "Automotive"
+      ],
+      "domains": [
+        "Sustainability",
+        "Roadmapping"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Framework aligning circularity trends & regulation to automotive HPC roadmaps.",
+      "situation": "Leadership sought insight into tech & business model innovations for circularity.",
+      "action": "Supported experts at PCH to contextualize trends into HPC product context.",
+      "result": "Delivered framework for research roadmap planning.",
+      "metrics": {},
+      "lesson": "People pay for a compass through complexity.",
+      "tech": [],
+      "tags": [],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.continental-automotive.com/en/solutions/server-zone-architecture/high-performance-computers.html"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/circular-r-d-strategy.png"
+      ]
+    },
+    {
+      "id": "ad-luxury-retail-operations",
+      "slug": "luxury-retail-operations",
+      "title": "Luxury Retail Operations",
+      "stage": "advanced",
+      "company": "Richemont",
+      "roles": [
+        "Facilitator",
+        "Strategy"
+      ],
+      "industries": [
+        "Retail",
+        "Applied AI"
+      ],
+      "domains": [
+        "Automation",
+        "Workforce"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Exec workshop on automation trajectories & workforce impact (40k employees).",
+      "situation": "C-suite sought guidance to prep brands for rapid automation advances.",
+      "action": "Co-designed and delivered leadership workshop with PCH Innovations.",
+      "result": "Workshops delivered across brands (ops, finance, HR, marketing).",
+      "metrics": {},
+      "lesson": "People care about human problems more than technology.",
+      "tech": [],
+      "tags": [],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.richemont.com/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/luxuryoperations.png"
+      ]
+    },
+    {
+      "id": "ad-presentation-attack-detection",
+      "slug": "presentation-attack-detection",
+      "title": "Presentation Attack Detection",
+      "stage": "advanced",
+      "company": "World",
+      "roles": [
+        "Security Advisor"
+      ],
+      "industries": [
+        "Crypto",
+        "Identity"
+      ],
+      "domains": [
+        "Biometrics",
+        "Red Team"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Red-team guidance & spoofing overview for Orb iris-recognition system.",
+      "situation": "Proof-of-personhood startup needed iris-ID spoofing strategy.",
+      "action": "Produced SOTA spoofing survey; advised hiring for specialist red team.",
+      "result": "Delivered insights and talent recommendations.",
+      "metrics": {},
+      "lesson": "Optimistic, articulate physicists are unstoppable.",
+      "tech": [],
+      "tags": [],
+      "status": "advisory",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://world.org/"
+        },
+        {
+          "type": "link",
+          "url": "https://world.org/orb"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/presentation-attack-detection.png"
+      ]
+    },
+    {
+      "id": "ad-additive-machine-scoping",
+      "slug": "additive-machine-scoping",
+      "title": "Additive Machine Scoping",
+      "stage": "advanced",
+      "company": "Nike",
+      "roles": [
+        "Technical Due Diligence"
+      ],
+      "industries": [
+        "Textiles",
+        "Manufacturing"
+      ],
+      "domains": [
+        "Additive",
+        "Process Dev"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Due diligence & system proposal for reactive extrusion manufacturing.",
+      "situation": "Applied innovation team needed technical diligence on novel process.",
+      "action": "Built TRL assessment, system architecture, and prototyping strategy.",
+      "result": "Presented risk-adjusted plan and budget to leadership.",
+      "metrics": {},
+      "lesson": "Everyone wants clarity and a pathway.",
+      "tech": [],
+      "tags": [],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://lebronjamesinnovationcenter.nike.com/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/additive-machine-scoping.png"
+      ]
+    },
+    {
+      "id": "ad-micro-fluidic-chip-development",
+      "slug": "micro-fluidic-chip-development",
+      "title": "Micro-Fluidic Chip Development",
+      "stage": "advanced",
+      "company": "Chipcare",
+      "roles": [
+        "Hardware Lead"
+      ],
+      "industries": [
+        "Med-Tech"
+      ],
+      "domains": [
+        "Microfluidics",
+        "Assay Automation"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Microfluidic chip prototypes & test rigs aligned to new target market.",
+      "situation": "Spin-out needed new hardware architecture after market shift.",
+      "action": "Translated assays into precision-molded chips and instrumentation.",
+      "result": "Contributed to rapid STI point-of-care prototype; not commercialized.",
+      "metrics": {},
+      "lesson": "Align on problem priority.",
+      "tech": [],
+      "tags": [],
+      "status": "prototype",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.crunchbase.com/organization/chipcare"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/diagnostics-1.png"
+      ]
+    },
+    {
+      "id": "ad-manufacturing-process-automation",
+      "slug": "manufacturing-process-automation",
+      "title": "Manufacturing Process Automation",
+      "stage": "advanced",
+      "company": "Siemens Energy",
+      "roles": [
+        "Product Lead"
+      ],
+      "industries": [
+        "Energy",
+        "Industrial Automation"
+      ],
+      "domains": [
+        "NLP",
+        "Workflow Automation"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Enterprise NLP app to accelerate sales-to-fabrication document workflows.",
+      "situation": "Berlin factory needed to speed sales engineering for switchgear builds.",
+      "action": "Led team to develop & deploy scalable NLP workflow application.",
+      "result": "Accelerated configuration across factories in Germany.",
+      "metrics": {},
+      "lesson": "Optimism can overcome bureaucracy.",
+      "tech": [],
+      "tags": [],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.siemens-energy.com/global/en/home/products-services/product-offerings/gas-insulated-switchgear.html"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/hvswitchgear.png"
+      ]
+    },
+    {
+      "id": "ad-sustainable-design-narrative",
+      "slug": "sustainable-design-narrative",
+      "title": "Sustainable Design Narrative",
+      "stage": "advanced",
+      "company": "Nike",
+      "roles": [
+        "Strategy",
+        "Narrative"
+      ],
+      "industries": [
+        "Textiles",
+        "Strategy"
+      ],
+      "domains": [
+        "Sustainability",
+        "Brand"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Vision & strategic narrative for regenerative product creation.",
+      "situation": "Leadership needed a new vision for sustainable product creation.",
+      "action": "Led team to craft narrative and onboarding book for executives.",
+      "result": "Inspired initiatives (Move to Zero, Bloom Over Doom, B.I.L.L.).",
+      "metrics": {},
+      "lesson": "Humanized science sells.",
+      "tech": [],
+      "tags": [],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://lebronjamesinnovationcenter.nike.com/"
+        },
+        {
+          "type": "link",
+          "url": "https://www.youtube.com/watch?v=IqxU5ZwIyAY"
+        },
+        {
+          "type": "link",
+          "url": "https://www.tiktok.com/@nike/video/7137334004218580270?lang=en"
+        },
+        {
+          "type": "link",
+          "url": "https://about.nike.com/en/newsroom/releases/bill-bot-initiated-longevity-lab"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/sustainable-design-narrative.png"
+      ]
+    },
+    {
+      "id": "ad-brain-imaging-prototype-strategy",
+      "slug": "brain-imaging-prototype-strategy",
+      "title": "Brain Imaging Prototype Strategy",
+      "stage": "advisory",
+      "company": "High Frontier Technologies",
+      "roles": [
+        "Advisor"
+      ],
+      "industries": [
+        "Astro",
+        "Biomedical Imaging"
+      ],
+      "domains": [
+        "Fundraising",
+        "Prototype Strategy"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Prototype & fundraising guidance for brain-injury triage device (spaceflight context).",
+      "situation": "Founder exploring terahertz/NIR imaging needed strategy for funding and development.",
+      "action": "Advised prototype plan and grant strategy; supported pitches.",
+      "result": "CSA Deep Space Healthcare grant won; probe concept published at IAC 2022.",
+      "metrics": {},
+      "lesson": "Scientists need product strategy guidance.",
+      "tech": [],
+      "tags": [],
+      "status": "grant-funded",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.asc-csa.gc.ca/eng/health/deep-space-healthcare-challenge.asp"
+        },
+        {
+          "type": "link",
+          "url": "https://discovery.ucl.ac.uk/id/eprint/10199251/"
+        },
+        {
+          "type": "link",
+          "url": "https://www.youtube.com/watch?v=1Ih2j5WIyLM"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/brain-imaging-prototype-strategy.png"
+      ]
+    },
+    {
+      "id": "ad-co-founder-matchmaking",
+      "slug": "co-founder-matchmaking",
+      "title": "Co-founder Matchmaking",
+      "stage": "advisory",
+      "company": "Advosense",
+      "roles": [
+        "Advisor"
+      ],
+      "industries": [
+        "Med-Tech",
+        "Wearables"
+      ],
+      "domains": [
+        "Team Building",
+        "Hiring"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Workshops to clarify priorities and identify CTO candidates.",
+      "situation": "Founder building smart incontinence brief needed team & technical strategy.",
+      "action": "Ran workshops to isolate priorities and shortlist candidates.",
+      "result": "CTO hired from workshop participants.",
+      "metrics": {},
+      "lesson": "Founder matchmaking is a high-stakes puzzle.",
+      "tech": [],
+      "tags": [],
+      "status": "placed",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.advosense.com/"
+        },
+        {
+          "type": "link",
+          "url": "https://www.linkedin.com/in/amerj/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/co-founder-matchmaking.png"
+      ]
+    },
+    {
+      "id": "ad-go-to-market-strategy-development",
+      "slug": "go-to-market-strategy-development",
+      "title": "Go-to-Market Strategy Development",
+      "stage": "advisory",
+      "company": "ThinkDeep Technologies",
+      "roles": [
+        "Advisor"
+      ],
+      "industries": [
+        "Dev Tools",
+        "MLOps"
+      ],
+      "domains": [
+        "GTM",
+        "Fundraising"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "GTM & fundraising strategy for GPU cost-management tech.",
+      "situation": "Technical founder needed product and fundraising guidance.",
+      "action": "Guided requirement validation, early customer engagement, and pitch creation.",
+      "result": "Applied to Germany AI incubator.",
+      "metrics": {},
+      "lesson": "Technologists need communication training.",
+      "tech": [],
+      "tags": [],
+      "status": "in-progress",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.linkedin.com/in/timotheus-gmeiner-83b4ba43/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/go-to-market-strategy-development.png"
+      ]
+    },
+    {
+      "id": "mi-structural-response-simulation",
+      "slug": "structural-response-simulation",
+      "title": "Structural Response Simulation",
+      "stage": "miscellaneous",
+      "company": "Thesis Research",
+      "roles": [
+        "Research"
+      ],
+      "industries": [
+        "Aerospace"
+      ],
+      "domains": [
+        "Dynamics",
+        "Signal Processing"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Vibration analysis and mitigation recommendations for hybrid rocket test stand.",
+      "situation": "Lab-scale hybrid rocket stand exhibited unstable vibrations.",
+      "action": "Built simulations from vibration data; recommended instrumentation and protocols.",
+      "result": "Analysis supported conference presentation.",
+      "metrics": {},
+      "lesson": "Signal processing is a dark art.",
+      "tech": [],
+      "tags": [],
+      "status": "published",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.torontomu.ca/prf/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/hybridrocket.png"
+      ]
+    },
+    {
+      "id": "mi-high-altitude-balloon-microsatellite",
+      "slug": "high-altitude-balloon-microsatellite",
+      "title": "High-Altitude Balloon Microsatellite",
+      "stage": "miscellaneous",
+      "company": "Thesis Project",
+      "roles": [
+        "Research",
+        "Systems"
+      ],
+      "industries": [
+        "Aerospace",
+        "Education"
+      ],
+      "domains": [
+        "HAB",
+        "Education"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "NSERC-backed educational prototyping kit; balloon to ~24 km.",
+      "situation": "Grant-supported kit for educational use.",
+      "action": "Developed and launched high-altitude balloon microsatellite.",
+      "result": "Presented at student conference in Istanbul.",
+      "metrics": {},
+      "lesson": "If you don’t ask, you don’t get.",
+      "tech": [],
+      "tags": [],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.torontomu.ca/prf/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/high-altitude-balloon-microsatellite.png"
+      ]
+    },
+    {
+      "id": "mi-film-development-technical-advisory",
+      "slug": "film-development-technical-advisory",
+      "title": "Film Development Technical Advisory",
+      "stage": "miscellaneous",
+      "company": "Smuggler",
+      "roles": [
+        "Technical Advisor"
+      ],
+      "industries": [
+        "Cinema",
+        "Creative Research"
+      ],
+      "domains": [
+        "Worldbuilding",
+        "Narrative"
+      ],
+      "location": null,
+      "years": {
+        "start": 2020,
+        "end": 2020
+      },
+      "summary": "Scientific essays supporting narrative/worldbuilding on faith & AI.",
+      "situation": "Director exploring the boundaries of faith and synthetic intelligence.",
+      "action": "Guided narrative with essays blending neuroscience, metaphysics, AI, consciousness.",
+      "result": "Created assets for producer pitch discussions.",
+      "metrics": {},
+      "lesson": "Exploring science through art is rewarding.",
+      "tech": [],
+      "tags": [],
+      "status": "in-progress",
+      "confidentiality": "partial",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://smugglersite.com/"
+        },
+        {
+          "type": "link",
+          "url": "https://smugglersite.com/global/commercial/directors/miles-jay/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/film-development-technical-advisory.png"
+      ]
+    }
+  ],
+  "patents": [
+    {
+      "title": "Generating three-dimensional representations of objects using diffusion models",
+      "number": null,
+      "jurisdiction": "US",
+      "kind": null,
+      "status": "patent pending",
+      "assignee": null,
+      "url": null
+    },
+    {
+      "title": "System for medical device asset management via distributed ledgers",
+      "number": "US20190065681",
+      "jurisdiction": "US",
+      "kind": "A1",
+      "status": "application",
+      "assignee": "Synaptive Medical",
+      "url": "https://patents.google.com/patent/US20190065681A1"
+    },
+    {
+      "title": "Magnetic resonance visible assembly for encoding information",
+      "number": "US20170035527",
+      "jurisdiction": "US",
+      "kind": "A1",
+      "status": "application",
+      "assignee": "Synaptive Medical",
+      "url": "https://patents.google.com/patent/US20170035527A1"
+    },
+    {
+      "title": "Anatomical simulators produced using 3D printing",
+      "number": "WO20170291359",
+      "jurisdiction": "WO",
+      "kind": "A1",
+      "status": "application",
+      "assignee": "Synaptive Medical",
+      "url": "https://patents.google.com/patent/WO20170291359A1"
+    },
+    {
+      "title": "Multi-metric surgical simulator and methods",
+      "number": "CA2958802",
+      "jurisdiction": "CA",
+      "kind": "A1",
+      "status": "application",
+      "assignee": "Synaptive Medical",
+      "url": null
+    },
+    {
+      "title": "Micro-optical surgical probes and micro-optical probe tips and methods of manufacture therefore",
+      "number": "US20180344130",
+      "jurisdiction": "US",
+      "kind": "A1",
+      "status": "application",
+      "assignee": "Synaptive Medical",
+      "url": "https://patents.google.com/patent/US20180344130A1"
+    },
+    {
+      "title": "Simulated tissue products and methods",
+      "number": "WO2017173520",
+      "jurisdiction": "WO",
+      "kind": null,
+      "status": "application",
+      "assignee": "Synaptive Medical",
+      "url": "https://patents.google.com/patent/US20180308393A1"
+    },
+    {
+      "title": "Cerebrospinal diffusion phantom",
+      "number": "US9880251",
+      "jurisdiction": "US",
+      "kind": "B2",
+      "status": "granted",
+      "assignee": "Synaptive Medical",
+      "url": "https://patents.google.com/patent/US9880251B2"
+    },
+    {
+      "title": "Multi-metric surgical simulator and methods",
+      "number": "US20180116724",
+      "jurisdiction": "US",
+      "kind": "A1",
+      "status": "application",
+      "assignee": "Synaptive Medical",
+      "url": "https://patents.google.com/patent/US20180116724A1"
+    },
+    {
+      "title": "Unknown (additional Synaptive filing referenced by link list)",
+      "number": "US20180308393",
+      "jurisdiction": "US",
+      "kind": "A1",
+      "status": "application",
+      "assignee": "Synaptive Medical",
+      "url": "https://patents.google.com/patent/US20180308393A1"
+    }
+  ],
+  "press": [
+    {
+      "title": "Autodesk lays the foundations for AI",
+      "outlet": "Develop3D",
+      "year": null,
+      "url": "https://develop3d.com/plm/autodesk-lays-the-foundations-for-ai/",
+      "related_project_slug": "blankai"
+    },
+    {
+      "title": "Move to Zero (campaign reference)",
+      "outlet": "Nike (YouTube)",
+      "year": null,
+      "url": "https://www.youtube.com/watch?v=IqxU5ZwIyAY",
+      "related_project_slug": "sustainable-design-narrative"
+    },
+    {
+      "title": "Sustainability initiative (campaign clip)",
+      "outlet": "Nike (TikTok)",
+      "year": null,
+      "url": "https://www.tiktok.com/@nike/video/7137334004218580270?lang=en",
+      "related_project_slug": "sustainable-design-narrative"
+    },
+    {
+      "title": "B.I.L.L. (Bot Initiated Longevity Lab) announcement",
+      "outlet": "Nike Newsroom",
+      "year": null,
+      "url": "https://about.nike.com/en/newsroom/releases/bill-bot-initiated-longevity-lab",
+      "related_project_slug": "sustainable-design-narrative"
+    },
+    {
+      "title": "Autodesk lays the foundations for AI",
+      "outlet": "Develop3D",
+      "year": 2023,
+      "url": "https://develop3d.com/plm/autodesk-lays-the-foundations-for-ai/",
+      "related_project_slug": "blankai"
+    },
+    {
+      "title": "Autodesk expands Fusion capabilities, leveraging AI to unlock automation and creativity across design and make",
+      "outlet": "Autodesk News",
+      "year": 2024,
+      "url": "https://adsknews.autodesk.com/en/news/fusion-industry-cloud-unlocks-ai/",
+      "related_project_slug": "blankai"
+    }
+  ],
+  "publications": [
+    {
+      "title": "A novel diffusion tensor imaging phantom that simulates complex neuro-architecture",
+      "venue": "ISMRM",
+      "year": 2016,
+      "url": "https://archive.ismrm.org/2016/3061.html",
+      "related_project_slug": "mri-quality-control-device"
+    },
+    {
+      "title": "3D-printed prosthetics for the developing world (SIGGRAPH poster/paper)",
+      "venue": "SIGGRAPH / Autodesk Research",
+      "year": null,
+      "url": "https://www.research.autodesk.com/app/uploads/2023/03/3dprinted-prosthetics-for-the.pdf_recy5wktAGLbzrEko.pdf",
+      "related_project_slug": "prosthetic-quality-assurance"
+    },
+    {
+      "title": "XDGAN (project page)",
+      "venue": "NVIDIA Toronto AI Lab",
+      "year": null,
+      "url": "https://research.nvidia.com/labs/toronto-ai/XDGAN/",
+      "related_project_slug": "ai-research-collaboration"
+    },
+    {
+      "title": "A compact pulsed near-infrared light probe for non-invasive imaging of the spaces between the skull and the brain to improve the diagnosis of brain injuries during spaceflight",
+      "venue": "IAC",
+      "year": 2022,
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10199251/",
+      "related_project_slug": "brain-imaging-prototype-strategy"
+    },
+    {
+      "title": "How to prepare for the AI future in Automotive Design",
+      "venue": "Car Design News",
+      "year": 2024,
+      "type": "Webinar",
+      "url": "https://www.youtube.com/watch?v=HJr79zo-rvs&t=2763s",
+      "related_project_slug": "ai-research-collaboration"
+    },
+    {
+      "title": "Solving Business Problems with AI",
+      "venue": "Toronto Machine Learning Workshop",
+      "year": 2023,
+      "type": "Conference Presentation",
+      "url": "https://drive.google.com/file/d/1uzgzkbxCGD-QJTYUDfnfIg0nnYk6iMf3/view",
+      "related_project_slug": "ai-research-collaboration"
+    }
+  ]
+}

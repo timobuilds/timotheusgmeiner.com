@@ -1,0 +1,22 @@
+---
+description: Project structure and build conventions for React + Vite site
+alwaysApply: true
+---
+
+# Project Structure
+
+- **Source**: `src/` — React app (main.jsx, App.jsx, components, index.css)
+- **Data**: `public/site.json` — content, projects, patents, press, publications (loaded at runtime)
+- **Assets**: `public/timo_1.png`, `public/work-images/` — served at root
+- **Build**: `npm run build` (Vite) → `dist/`
+- **Edit content** in `public/site.json`
+- **Edit styles** in `src/index.css`
+- **Do not** edit `dist/` — it is overwritten on each build
+
+## Key paths
+
+- `public/site.json` — content, projects, patents, press, publications
+- `public/timo_1.png` — nav photo
+- `public/work-images/*.png` — project images
+- `src/components/` — Nav, AboutSection, PrinciplesSection, WorksSection, WorkDetail, PatentsSection, PressSection, TalksSection, ArticlesSection
+- `src/utils/imageMap.js` — IMAGE_FILENAME_MAP, getProjectImageUrl, formatProjectTitle
