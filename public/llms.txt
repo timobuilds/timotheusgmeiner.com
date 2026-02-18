@@ -1,0 +1,177 @@
+# Timotheus Gmeiner
+
+> Product strategist, applied scientist, and inventor who helps innovative leaders de-risk, prototype, and position frontier technologies. Works with executive leadership and innovation teams across startups, research labs, and global enterprises.
+
+Important notes:
+- Delivers productized hw/sw automations, defensible intellectual property, and enterprise strategies that bring applied science to market
+- 11 patents across medical devices, surgical simulation, MRI calibration, and generative AI
+- 4 academic publications (SIGGRAPH, ISMRM, IAC, NVIDIA)
+- Led a 3D GenAI startup that was acquired by Autodesk
+- Currently Product Lead at Autodesk integrating AI into automotive design tools (Alias and VRED)
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/timotheus-gmeiner-83b4ba43/): Professional profile and work history
+- [X/Twitter](https://x.com/timobuilds): Posts on AI, design, and deep tech
+- [GitHub](https://github.com/timobuilds): Open source projects
+- [LAB SNACKS Newsletter](https://labsnacks.substack.com/): Writing on R&D, AI strategy, and innovation
+
+## Clients & Partners
+
+Worldcoin, Richemont, Nike, Autodesk, Siemens Energy, Continental, Rocket Lab (SI), ChipCare Corporation, Ventripoint Diagnostics, Rolls-Royce Aero Engines, Morgan Solar, Bionik Labs, Synaptive Medical, Nia Technologies, Christian Blind Mission, University of Toronto.
+
+## Core Competencies
+
+- AI product strategy, roadmapping, and prototyping
+- Deep tech commercialization and go-to-market strategy
+- Hardware/software product development from concept through production
+- Mechanical engineering, medical device design, and manufacturing
+- Generative AI (3D, design tools), diffusion models
+- Enterprise NLP and workflow automation
+- Venture scouting, open innovation, and corporate R&D partnerships
+- Technology readiness assessment and due diligence
+- Sustainability and circular economy strategy
+- Biometrics, security, and red-teaming
+- Startup advisory, fundraising guidance, and co-founder matchmaking
+- Patent development and IP strategy
+
+## Work History
+
+### Current Role (2023–Present)
+
+- [Automotive Design Process Automation](https://www.autodesk.com/products/alias-products/overview): Product Lead at Autodesk. Integrating internal AI research and external AI capabilities into targeted workflow automations for the world's leading automotive design (Alias) and visualization (VRED) software suite. Managing product conceptualization, AI strategy, roadmapping, prototyping, and global enterprise customer engagements. Several features shipped, many features prototyped.
+
+### 2023–2025
+
+- [Film Development Technical Advisory](https://smugglersite.com/global/commercial/directors/miles-jay/): Technical Advisor at Smuggler. Guiding narrative and world-building development through essays combining research on neuroscience, metaphysics, AI, and consciousness for an award-winning director developing a film exploring the boundaries of faith and synthetic intelligence.
+
+### 2023
+
+- [Luxury Retail Operations](https://www.richemont.com/): Facilitator & Strategy at Richemont. Designed a workshop with Gentle Systems for executive leadership of the world's third largest luxury conglomerate to understand automation technology trajectories and their impact on a 40,000-person workforce. Delivered to C-level representation from a selection of Richemont's 28 brands.
+- [Additive Machine Scoping](https://lebronjamesinnovationcenter.nike.com/): Technical Due Diligence at Nike. Developed a technology readiness assessment, system architecture proposal, and prototyping strategy for a novel reactive extrusion manufacturing system for textile manufacturing processes.
+- [Go-to-Market Strategy Development](https://www.linkedin.com/in/amerj/): Advisor at ThinkDeep Technologies. Guided a technical founder through requirement validation, early customer engagement, and investment pitch creation for an innovative MLOps technology supporting GPU cost management.
+
+### 2022–2023
+
+- [Manufacturing Process Automation](https://www.siemens-energy.com/global/en/home/products-services/product-offerings/gas-insulated-switchgear.html): Product Lead at Siemens Energy. Led a team at Gentle Systems to develop and deploy a scalable enterprise NLP application that accelerates the configuration of machinery build orders across factories in Germany for complex high-energy switchgear equipment.
+
+### 2020–2023
+
+- [3D GenAI Startup (BlankAI)](https://develop3d.com/plm/autodesk-lays-the-foundations-for-ai/): Product Lead & Commercialization at Gentle Systems. Led a team to productize and commercialize early 3D GenAI research using diffusion models. Pivoted to corporate partnership after failed seed raise and spinout. Sold tech and team to Autodesk, where Timotheus now leads AI feature integration into Alias and VRED.
+
+### 2018–2023
+
+- [Cardiac Ultrasound Probe Development](https://ventripoint.com/): Mechanical Lead at Ventripoint Diagnostics. Led mechanical development for all prototype and production systems for an AI-driven ultrasound 3D reconstruction method enabling volumetric cardiac imaging at a fraction of the cost of MRI. Multiple versions released to hospitals worldwide.
+
+### 2022
+
+- [AI Research Collaboration](https://research.nvidia.com/labs/toronto-ai/XDGAN/): Research Collaborator at NVIDIA AI Lab. Facilitated collaboration agreements between NVIDIA and Gentle Systems researchers. Published XDGAN: Multi-Modal 3D Shape Generation in 2D Space.
+- [Circular R&D Strategy](https://www.continental.com/en-us/products-innovation/innovation/electric-mobility/eight-things-you-might-not-know/high-performance-computers/): Strategy at Continental. Developed a framework for contextualizing technology trends and sustainability regulation into automotive high-performance computing products for circular product R&D roadmap planning.
+- [Presentation Attack Detection](https://world.org/orb): Security Advisor at World (Worldcoin). Created an overview of state-of-the-art iris ID spoofing research and advised on hiring strategy for specialist red-team for the Orb iris recognition system.
+- [Brain Imaging Prototype Strategy](https://discovery.ucl.ac.uk/id/eprint/10199251/): Advisor at High Frontier Technologies. Advised on prototype and fundraising strategy for a brain-injury triage imaging device. Successful raise of grant funds from the CSA Deep Space Healthcare Challenge. Published probe concept at IAC 2022.
+
+### 2021
+
+- [Co-founder Matchmaking](https://visionhealthpioneers.de/advosense-the-future-of-geriatric-care-is-smart-and-patient-centric/): Advisor at Advosense. Ran workshops with founding team to isolate development priorities and candidate CTOs for a smart incontinence management device. Founder hired a CTO from the workshops.
+
+### 2020
+
+- [Sustainable Design Narrative](https://lebronjamesinnovationcenter.nike.com/): Strategy & Narrative at Nike. Led a team at Gentle Systems to develop a vision and strategic narrative for regenerative business models, producing a strategic onboarding book for executive leadership that inspired initiatives like Move to Zero, Bloom Over Doom, and B.I.L.L.
+
+### 2018–2020
+
+- [Tech Scouting](https://www.research.autodesk.com/): Venture Scouting at Autodesk. Developed a targeted network of startups, academics, and innovation teams in North America and Europe for the CTO office's corporate research facility.
+- [Micro-Fluidic Chip Development](https://www.crunchbase.com/organization/chipcare): Hardware Lead at ChipCare Corporation. Translated assay workflows into precision-molded microfluidic chip prototypes and testing instrumentation for rapid point-of-care STI testing.
+
+### 2018
+
+- [Exoskeleton Structural Redesign](https://www.bioniklabs.com/): Mechanical Lead at Bionik Labs. Complete redesign of all structural components for an exoskeleton mobility assist device.
+- [Microsatellite Test Hardware](https://www.rocketlabusa.com/space-systems/satellite-components/star-trackers/): Manufacturing Engineering at Rocket Lab (Sinclair Interplanetary). Developed production fixtures for star-tracking sensors and reaction wheels for microsatellites, plus a satellite-tracking optical groundstation.
+
+### 2017–2018
+
+- [Head Trauma MRI Machine](https://www.synaptivemedical.com/the-future-of-mri): Mechanical Systems at Synaptive Medical. Designed, prototyped, and tested mechanical assemblies for MRI hardware. Production launch of a low-field strength (0.5T) MRI machine for emergency room trauma imaging.
+
+### 2017
+
+- [Pathology Automation Instruments](https://patents.google.com/patent/US20180344130A1/): Mechanical Engineering at Synaptive Medical. Redesigned Raman and OCT spectroscopy prototypes for scaled production. Launched Raman spectroscopy system into production. Awarded patent US20180344130A1 for micro-optical surgical probes.
+
+### 2016
+
+- [Robotic Workflow Training Device](https://patents.google.com/patent/US20180116724A1/): Product Engineering at Synaptive Medical. Collaborated with a Duke University neurosurgeon to develop a training device accelerating adoption of a new robotic neurosurgical workflow. Awarded patent US20180116724A1.
+- [MRI Quality Control Device](https://archive.ismrm.org/2016/3061.html): R&D & Process Development at Synaptive Medical. Developed an FDA-approved device that mimics anisotropic water diffusion in neuronal fibers for MR scanner calibration. Awarded four patents (US9880251B2, US20170035527A1, USD790709S1, US20190065681A1). Presented at ISMRM 2016.
+
+### 2015–2016
+
+- [Neurosurgeon Training Device](https://www.synaptivemedical.com/): R&D Engineering at Synaptive Medical. Engineered nano-particle–doped PVA cryogels with multimodal imaging properties (MRI, CT, ultrasound) from research through scalable manufacturing. Launched products replacing cadavers in neurosurgical training worldwide. Awarded two patents (WO2017173520, US20170291359A1).
+
+### 2014
+
+- [Prosthetic Quality Assurance](https://www.niatech.org/): Test Engineering at Autodesk Foundation. Developed ISO-10328 verification hardware and protocols for scan-to-print trans-tibial prosthetics. Beta-tested in Entebbe, Uganda. System spun into non-profit Nia Technologies serving amputees worldwide. Published at SIGGRAPH 2015.
+
+### 2012–2014
+
+- [Turbofan Engine Structures](https://www.rolls-royce.com/products-and-services/civil-aerospace/business-aviation/br710.aspx): Structures at Rolls-Royce Aero Engines. Managed design interfaces across engine systems and assisted in structural component design for Bombardier BR700-series turbofans.
+
+### 2012
+
+- [High-Altitude Balloon Microsatellite](https://www.torontomu.ca/prf/): Research & Systems, Thesis Project. NSERC-backed high-altitude balloon prototyping kit launched to ~24km altitude as an educational tool.
+- [Structural Response Simulation](https://www.torontomu.ca/prf/): Research, Thesis. Vibration analysis and mitigation recommendations for a hybrid rocket test stand at the TMU Propulsion Research Facility.
+
+### 2010–2012
+
+- Optical Test Fixtures and Production Hardware: Mechanical Design & Manufacturing Fixtures at Morgan Solar. Developed optical testing fixtures and pneumatic assembly jigs for Fresnel-lens CPV product production ramp.
+
+## Patents
+
+- [System for medical device asset management via distributed ledgers](https://patents.google.com/patent/US20190065681A1): US20190065681A1 — Synaptive Medical
+- [Magnetic resonance visible assembly for encoding information](https://patents.google.com/patent/US20170035527A1): US20170035527A1 — Synaptive Medical
+- [Anatomical simulators produced using 3D printing](https://patents.google.com/patent/WO20170291359A1): WO20170291359A1 — Synaptive Medical
+- Multi-metric surgical simulator and methods: CA2958802A1 — Synaptive Medical
+- [Micro-optical surgical probes and micro-optical probe tips](https://patents.google.com/patent/US20180344130A1): US20180344130A1 — Synaptive Medical
+- [Simulated tissue products and methods](https://patents.google.com/patent/US20180308393A1): WO2017173520 — Synaptive Medical
+- [Cerebrospinal diffusion phantom](https://patents.google.com/patent/US9880251B2): US9880251B2 (Granted) — Synaptive Medical
+- [Multi-metric surgical simulator and methods](https://patents.google.com/patent/US20180116724A1): US20180116724A1 — Synaptive Medical
+- [Simulated tissue products and methods](https://patents.google.com/patent/US20180308393A1): US20180308393A1 — Synaptive Medical
+- [Anatomical simulators produced using 3D printing](https://patents.google.com/patent/US20170291359A1): US20170291359A1 (Granted) — Synaptive Medical
+- (US Patent Pending) Generating three-dimensional representations of objects using diffusion models
+
+## Publications
+
+- [XDGAN: Multi-Modal 3D Shape Generation in 2D Space](https://research.nvidia.com/labs/toronto-ai/XDGAN/): NVIDIA Toronto AI Lab
+- [A compact pulsed near-infrared light probe for brain injury diagnosis during spaceflight](https://discovery.ucl.ac.uk/id/eprint/10199251/): IAC, 2022
+- [A novel diffusion tensor imaging phantom that simulates complex neuro-architecture](https://archive.ismrm.org/2016/3061.html): ISMRM, 2016
+- [3D-Printed Prosthetics for the Developing World](https://www.research.autodesk.com/app/uploads/2023/03/3dprinted-prosthetics-for-the.pdf_recy5wktAGLbzrEko.pdf): SIGGRAPH / Autodesk Research, 2015
+
+## Press
+
+- [Autodesk lays the foundations for AI](https://develop3d.com/plm/autodesk-lays-the-foundations-for-ai/): Develop3D coverage of BlankAI acquisition by Autodesk
+
+## Talks
+
+- [How to prepare for the AI future in Automotive Design](https://youtu.be/HJr79zo-rvs?si=zb4DeN-GJVeQyaTZ): Car Design News Talk
+- [Building an AI strategy deep dive](https://www.youtube.com/watch?v=82CNpqaHuCU&t=121s): Automotive Innovation Forum 2025
+- [Solving business problems with AI](https://drive.google.com/file/d/1uzgzkbxCGD-QJTYUDfnfIg0nnYk6iMf3/view): Toronto Machine Learning Workshop
+
+## Articles
+
+- [R&D Alchemy](https://labsnacks.substack.com/p/r-and-d-alchemy): How to speak so your team listens
+- [Take Your Throne](https://labsnacks.substack.com/p/how-to-take-your-throne): Every pawn is a potential queen
+- [Context is Currency](https://labsnacks.substack.com/p/context-is-currency): The new creative edge is clarity, taste, and intent
+- [Neural Red Teaming](https://labsnacks.substack.com/p/cave-of-wonder-or-unknown-horror): If we build a bridge between minds, who guards the gate?
+- [Your Secret Laboratory](https://labsnacks.substack.com/p/your-secret-laboratory): Hold space for playful curiosity
+- [Consumer Gradient Ascent](https://www.linkedin.com/posts/timotheus-gmeiner-83b4ba43_ive-spent-the-past-two-years-working-with-activity-6935201043953664001-MmdM/): AI for requirements engineering
+- [LLMs: The Opportunity for Manufacturers](https://medium.com/@gentlesystems/large-language-models-the-opportunity-for-manufacturers-363184cbbea4): How LLMs can transform manufacturing
+- [Practical 3D Printing for Product Designers](https://medium.com/@timotheus.gmeiner/practical-3d-printing-for-strategies-product-design-595b27c58ba7): Six ways to win with additive manufacturing
+- [Brains, Brawn, and Beauty in Robotics](https://medium.com/@timotheus.gmeiner/brains-brawn-and-beauty-in-robotics-56e34b7bf5b3): The intersection of form and function in robotics
+- [Augmented Engineering Intelligence](https://blog.prototypr.io/augmented-engineering-intelligence-ba548860f393): AI-augmented engineering workflows
+- [Social Product Design](https://www.linkedin.com/posts/timotheus-gmeiner-83b4ba43_ai-will-change-how-consumer-products-are-activity-6936307726578798592-Zy7T/): How AI will change consumer product design
+- [Exploring Design Ethics for a Machine Age](https://medium.com/@timotheus.gmeiner/10-principles-of-good-design-revisited-2f11b863c466): Revisiting 10 principles of good design
+
+## Industries Served
+
+Automotive, AI, Energy, Industrial Automation, Aerospace, Med-Tech, Biomedical Imaging, Crypto/Identity, Retail, Luxury, Textiles, Manufacturing, Cinema, Dev Tools/MLOps, CAD/Research, Microfluidics, Robotics, Optics, Solar Energy, Wearables, Education, Humanitarian.
+
+## Keywords
+
+AI strategy, product strategy, deep tech commercialization, generative AI, 3D generative AI, diffusion models, NLP, enterprise automation, medical devices, MRI, ultrasound, spectroscopy, microfluidics, additive manufacturing, 3D printing, robotics, exoskeletons, aerospace structures, satellite components, sustainability, circular economy, biometrics, red teaming, proof of personhood, venture scouting, open innovation, startup advisory, fundraising, go-to-market, technology readiness assessment, mechanical engineering, hardware development, prototype strategy, patent development, surgical simulation, tissue engineering, PVA cryogels, optical systems, production fixtures, ISO standards, FDA clearance, design tools, automotive design, visualization, Alias, VRED, Autodesk, NVIDIA, Siemens Energy, Nike, Richemont, Continental, Worldcoin, Rolls-Royce, Rocket Lab, Synaptive Medical.

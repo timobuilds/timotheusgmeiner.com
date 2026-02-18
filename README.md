@@ -2,6 +2,10 @@
 
 React + Vite portfolio. All content is driven by `public/site.json`; assets live in `public/`.
 
+## LLM context
+
+This site publishes [`/llms.txt`](https://timotheusgmeiner.com/llms.txt) following the [llms.txt standard](https://llmstxt.org/) so that AI agents and crawlers can quickly retrieve structured context about Timotheus Gmeiner's work, projects, patents, and publications.
+
 ## Quick start
 
 ```bash
@@ -16,6 +20,7 @@ Open the URL shown (e.g. [http://localhost:5173](http://localhost:5173)).
 ```
 ├── public/
 │   ├── site.json              # All content: about, projects, patents, press, publications, talks, articles
+│   ├── llms.txt               # LLM-readable site context (llms.txt standard)
 │   ├── timo_1.png             # Nav photo
 │   └── work-images/           # Project images (PNG)
 ├── src/
