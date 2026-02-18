@@ -14,8 +14,8 @@ export function AboutSection({ content }) {
             rel="noopener noreferrer"
             className="link"
           >
-            Learn more.
-          </a>
+            Learn more
+          </a>.
         </p>
         <p className="body-text" style={{ whiteSpace: 'pre-line' }}>
           {aboutBlock}

@@ -1,0 +1,13 @@
+---
+description: Projects in site.json must be ordered by date, most recent first
+globs: public/site.json
+alwaysApply: false
+---
+
+# Project Ordering
+
+Projects in the `projects` array in `public/site.json` must be sorted by date **descending** (most recent at the top, oldest at the bottom).
+
+- Sort by `years.end` first (higher = more recent = earlier in the array)
+- If `years.end` is equal, sort by `years.start` descending
+- After updating any project's dates, re-sort the entire `projects` array to maintain this order

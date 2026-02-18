@@ -58,30 +58,36 @@ body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1
 .works-col-year { text-align: right; text-transform: uppercase; }
 .works-details:first-of-type { border-top: none; }
 .works-row { display: grid; grid-template-columns: minmax(275px, 2fr) minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr); gap: 20px; padding: 10px 0; min-height: 35.5px; list-style: none; align-items: center; transition: color 0.15s ease; background: transparent; outline: none; }
-.works-details[open] .works-row { padding: 0; height: 35.5px; }
+.works-details.open .works-row { padding: 0; height: 35.5px; }
 .works-row:hover,
 .works-row:focus,
 .works-row:active { background: transparent; }
-.works-row::-webkit-details-marker { display: none; }
-.works-row::marker { display: none; }
 .works-row .works-col { color: #000; text-transform: none; }
 .works-row .works-col-industry,
 .works-row .works-col-year { text-transform: uppercase; }
-.works-details[open] .works-row .works-col { color: #818181; }
+.works-details.open .works-row .works-col { color: #818181; }
+.works-detail-wrapper {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.25s ease;
+}
+.works-details.open .works-detail-wrapper {
+  grid-template-rows: 1fr;
+}
 .works-detail-expanded {
+  overflow: hidden;
   display: grid;
   grid-template-columns: minmax(275px, 2fr) minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
   gap: 0 20px;
-  padding: 20px 0;
+  padding: 0;
   width: 100%;
-  animation: worksExpand 0.2s ease;
+}
+.works-details.open .works-detail-expanded {
+  padding: 20px 0;
+  transition: padding 0.25s ease;
 }
 .works-detail-expanded > .project-image-container { grid-column: 1; }
 .works-detail-expanded > .details-section { grid-column: 2 / -1; }
-.works-detail-expanded:hover,
-.works-detail-expanded:focus,
-.works-detail-expanded:active { background: transparent; }
-@keyframes worksExpand { from { opacity: 0; } to { opacity: 1; } }
 
 /* Project image — fixed 275×275, grid column 1 handles alignment with Partner */
 .project-image-container {
@@ -142,6 +148,10 @@ body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1
   margin: 0;
   color: #000;
 }
+.work-value a {
+  color: #000;
+  text-decoration: underline;
+}
 .result-content {
   flex: 1;
   min-width: 0;
@@ -149,7 +159,12 @@ body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1
 }
 .result-content p {
   line-height: 14px;
-  margin: 0 0 15px 0;
+  margin: 0;
+  white-space: pre-line;
+}
+.result-content a {
+  color: #000;
+  text-decoration: underline;
 }
 .result-content .patent-link {
   display: block;
