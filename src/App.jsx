@@ -7,6 +7,7 @@ import { PatentsSection } from './components/PatentsSection'
 import { PressSection } from './components/PressSection'
 import { TalksSection } from './components/TalksSection'
 import { ArticlesSection } from './components/ArticlesSection'
+import { ContactSection } from './components/ContactSection'
 
 export default function App() {
   const [siteData, setSiteData] = useState(null)
@@ -40,6 +41,7 @@ export default function App() {
         <PressSection press={pressAndPublications} />
         <TalksSection talks={content.talks} />
         <ArticlesSection articles={content.articles} />
+        <ContactSection contactSection={content.contactSection} />
       </main>
     </div>
   )
