@@ -44,6 +44,7 @@ body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1
 .list-item { color: #1d1d1f; }
 .list-item-active { text-decoration: underline; }
 .list-item .link { color: #1d1d1f; text-decoration: underline; }
+.list-item a { color: #000; text-decoration: underline; }
 
 .works-section { display: flex; flex-direction: row; gap: 30px; align-items: flex-start; }
 .works-intro { flex: 0 0 296px; min-width: 0; }

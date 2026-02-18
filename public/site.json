@@ -15,7 +15,7 @@
       ]
     },
     "clients": {
-      "intro": "I have worked with leadership teams and innovation teams large and small.",
+      "intro": "I work with executive leadership and innovation teams of all shapes and sizes.",
       "list": [
         "Worldcoin",
         "Richemont",
@@ -57,34 +57,137 @@
     "talks": [
       {
         "text": "How to prepare for the AI future in Automotive Design. Car Design News Talk.",
+        "url": "https://youtu.be/HJr79zo-rvs?si=zb4DeN-GJVeQyaTZ",
         "active": true
       },
       {
-        "text": "Building AI strategy. Talk for Automotive Innovation Forum 2025.",
-        "active": false
-      },
-      {
-        "text": "Harnessing new technologies towards a balanced human/machine relationship. (Closed talk for Richemont).",
+        "text": "Building an AI strategy deep dive. Talk for Automotive Innovation Forum 2025.",
+        "url": "https://www.youtube.com/watch?v=82CNpqaHuCU&t=121s",
         "active": true
       },
       {
         "text": "Solving business problems with AI. Toronto Machine Learning Workshop.",
+        "url": "https://drive.google.com/file/d/1uzgzkbxCGD-QJTYUDfnfIg0nnYk6iMf3/view",
         "active": true
       }
     ],
     "articles": [
-      "AI for Designers - April 1, 2020",
-      "Six Steps to Social Product Design - April 1, 2020",
-      "Consumer Gradient Ascent: AI for Requirements Engineering - April 1, 2020",
-      "Large Language Models: The Opportunity for Manufacturers - April 1, 2020",
-      "Design Ethics for a Machine Age - April 1, 2020",
-      "Win with Additive Manufacturing - April 1, 2020",
-      "Brains, Brawn, and Beauty in Robotics - April 1, 2020",
-      "Augmented Engineering Intelligence - April 1, 2020",
-      "Reframing Generative Design - April 1, 2020"
+      { "text": "R&D Alchemy", "url": "https://labsnacks.substack.com/p/r-and-d-alchemy" },
+      { "text": "Take Your Throne", "url": "https://labsnacks.substack.com/p/how-to-take-your-throne" },
+      { "text": "Context is Currency", "url": "https://labsnacks.substack.com/p/context-is-currency" },
+      { "text": "Neural Red Teaming", "url": "https://labsnacks.substack.com/p/cave-of-wonder-or-unknown-horror" },
+      { "text": "Your Secret Laboratory", "url": "https://labsnacks.substack.com/p/your-secret-laboratory" },
+      { "text": "Consumer Gradient Ascent", "url": "https://www.linkedin.com/posts/timotheus-gmeiner-83b4ba43_ive-spent-the-past-two-years-working-with-activity-6935201043953664001-MmdM/?utm_source=share&utm_medium=member_desktop" },
+      { "text": "LLMs: The Opportunity for Manufacturers", "url": "https://medium.com/@gentlesystems/large-language-models-the-opportunity-for-manufacturers-363184cbbea4" },
+      { "text": "Practical 3D Printing for Product Designers", "url": "https://medium.com/@timotheus.gmeiner/practical-3d-printing-for-strategies-product-design-595b27c58ba7" },
+      { "text": "Brains, Brawn, and Beauty in Robotics", "url": "https://medium.com/@timotheus.gmeiner/brains-brawn-and-beauty-in-robotics-56e34b7bf5b3" },
+      { "text": "Augmented Engineering Intelligence", "url": "https://blog.prototypr.io/augmented-engineering-intelligence-ba548860f393" },
+      { "text": "Social Product Design", "url": "https://www.linkedin.com/posts/timotheus-gmeiner-83b4ba43_ai-will-change-how-consumer-products-are-activity-6936307726578798592-Zy7T/?utm_source=share&utm_medium=member_desktop" },
+      { "text": "Exploring Design Ethics for a Machine Age", "url": "https://medium.com/@timotheus.gmeiner/10-principles-of-good-design-revisited-2f11b863c466" }
     ]
   },
   "projects": [
+    {
+      "id": "ad-design-process-automation",
+      "slug": "design-process-automation",
+      "title": "Design Process Automation",
+      "stage": "advanced",
+      "company": "Autodesk",
+      "roles": [
+        "Product Lead"
+      ],
+      "industries": [
+        "Automotive"
+      ],
+      "domains": [
+        "AI",
+        "Automation"
+      ],
+      "location": null,
+      "years": {
+        "start": 2023,
+        "end": null
+      },
+      "summary": "Integrating AI into premium automotive design and visualization tools.",
+      "situation": "The world's leading automotive <a href=\"https://www.autodesk.com/products/alias-products/overview\" target=\"_blank\" rel=\"noopener noreferrer\">design</a> and <a href=\"https://www.autodesk.com/products/vred/overview\" target=\"_blank\" rel=\"noopener noreferrer\">visualization</a> software suite is integrating internal AI research and external AI capabilities into targeted workflow automations.",
+      "action": "Managing product conceptualization, AI strategy, roadmapping, prototyping, and global enterprise customer engagements.",
+      "result": "Several features shipped, many features prototyped. <a href=\"https://youtu.be/rTNkIo0L1Uc?si=u8aSQ53AG0O9KzTR&t=1641\" target=\"_blank\" rel=\"noopener noreferrer\">Watch me present</a> some of these features in our Automotive Innovation Forum 2025.",
+      "metrics": {},
+      "lesson": "Big ships have lots of momentum.",
+      "tech": [],
+      "tags": [],
+      "status": "in-progress",
+      "confidentiality": "partial",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.autodesk.com/products/alias-products/overview"
+        },
+        {
+          "type": "link",
+          "url": "https://www.autodesk.com/products/vred/overview"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/design-process-automation.png"
+      ]
+    },
+    {
+      "id": "mi-film-development-technical-advisory",
+      "slug": "film-development-technical-advisory",
+      "title": "Film Development Technical Advisory",
+      "stage": "miscellaneous",
+      "company": "Smuggler",
+      "roles": [
+        "Technical Advisor"
+      ],
+      "industries": [
+        "Cinema",
+        "Creative Research"
+      ],
+      "domains": [
+        "Worldbuilding",
+        "Narrative"
+      ],
+      "location": null,
+      "years": {
+        "start": 2023,
+        "end": 2025
+      },
+      "summary": "Scientific essays supporting narrative/worldbuilding on faith & AI.",
+      "situation": "An <a href=\"https://smugglersite.com/global/commercial/directors/miles-jay/\" target=\"_blank\" rel=\"noopener noreferrer\">award-winning director</a> (and close friend) is developing a film exploring the boundaries of faith and synthetic intelligence.",
+      "action": "Guide narrative and world-building development through essays combining research on neuroscience, metaphysics, AI, and consciousness.",
+      "result": "Multiple assets to support pitch discussions with producers.",
+      "metrics": {},
+      "lesson": "It is rewarding and fun to explore the fringes of science through art.",
+      "tech": [],
+      "tags": [],
+      "status": "in-progress",
+      "confidentiality": "partial",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://smugglersite.com/"
+        },
+        {
+          "type": "link",
+          "url": "https://smugglersite.com/global/commercial/directors/miles-jay/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/film-development-technical-advisory.png"
+      ]
+    },
     {
       "id": "ad-luxury-retail-operations",
       "slug": "luxury-retail-operations",
@@ -181,6 +284,53 @@
       ]
     },
     {
+      "id": "ad-go-to-market-strategy-development",
+      "slug": "go-to-market-strategy-development",
+      "title": "Go-to-Market Strategy Development",
+      "stage": "advisory",
+      "company": "ThinkDeep Technologies",
+      "roles": [
+        "Advisor"
+      ],
+      "industries": [
+        "Dev Tools",
+        "MLOps"
+      ],
+      "domains": [
+        "GTM",
+        "Fundraising"
+      ],
+      "location": null,
+      "years": {
+        "start": 2023,
+        "end": 2023
+      },
+      "summary": "GTM & fundraising strategy for GPU cost-management tech.",
+      "situation": "<a href=\"https://www.linkedin.com/in/amerj/\" target=\"_blank\" rel=\"noopener noreferrer\">Technical founder</a> needing guidance on product and fundraising strategy for an innovative MLOps technology to support GPU cost management.",
+      "action": "Guided founder through process of requirement validation, early customer engagement, and investment pitch creation.",
+      "result": "Founder applied to German startup incubator.",
+      "metrics": {},
+      "lesson": "Technologists need communication training.",
+      "tech": [],
+      "tags": [],
+      "status": "in-progress",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.linkedin.com/in/timotheus-gmeiner-83b4ba43/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/go-to-market-strategy-development.png"
+      ]
+    },
+    {
       "id": "ad-manufacturing-process-automation",
       "slug": "manufacturing-process-automation",
       "title": "Manufacturing Process Automation",
@@ -238,8 +388,7 @@
         "Commercialization"
       ],
       "industries": [
-        "Tools",
-        "Generative AI"
+        "AI"
       ],
       "domains": [
         "3D GenAI",
@@ -349,8 +498,7 @@
         "Research Collaborator"
       ],
       "industries": [
-        "Tools",
-        "AI Research"
+        "AI"
       ],
       "domains": [
         "GenAI",
@@ -488,6 +636,112 @@
       ]
     },
     {
+      "id": "ad-brain-imaging-prototype-strategy",
+      "slug": "brain-imaging-prototype-strategy",
+      "title": "Brain Imaging Prototype Strategy",
+      "stage": "advisory",
+      "company": "High Frontier Technologies",
+      "roles": [
+        "Advisor"
+      ],
+      "industries": [
+        "Astro",
+        "Biomedical Imaging"
+      ],
+      "domains": [
+        "Fundraising",
+        "Prototype Strategy"
+      ],
+      "location": null,
+      "years": {
+        "start": 2022,
+        "end": 2022
+      },
+      "summary": "Prototype & fundraising guidance for brain-injury triage device (spaceflight context).",
+      "situation": "Biologist-founder investigating the applications of terahertz imaging sought guidance for fundraising and product development strategy.",
+      "action": "Advised on prototype and fundraising strategy for a imaging device that aimed to reduce unnecessary remote-medevacs for cases of medium-to-low risk traumatic brain injury.",
+      "result": "Successful raise of grant funds from the <a href=\"https://www.asc-csa.gc.ca/eng/health/deep-space-healthcare-challenge.asp\" target=\"_blank\" rel=\"noopener noreferrer\">CSA Deep Space Healthcare Challenge</a>. Supported <a href=\"https://www.youtube.com/watch?v=1Ih2j5WIyLM\" target=\"_blank\" rel=\"noopener noreferrer\">pitch</a> for continued funding. Published a probe concept at IAC22.\n\n<a href=\"https://discovery.ucl.ac.uk/id/eprint/10199251/\" target=\"_blank\" rel=\"noopener noreferrer\">A compact pulsed near-infrared light probe for non-invasive imaging of the spaces between the skull and the brain to improve the diagnosis of brain injuries during spaceflight</a> [International Astronautical Congress (IAC), 2022]",
+      "metrics": {},
+      "lesson": "Great scientists are desperate for effective product strategy guidance.",
+      "tech": [],
+      "tags": [],
+      "status": "grant-funded",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.asc-csa.gc.ca/eng/health/deep-space-healthcare-challenge.asp"
+        },
+        {
+          "type": "link",
+          "url": "https://discovery.ucl.ac.uk/id/eprint/10199251/"
+        },
+        {
+          "type": "link",
+          "url": "https://www.youtube.com/watch?v=1Ih2j5WIyLM"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/brain-imaging-prototype-strategy.png"
+      ]
+    },
+    {
+      "id": "ad-co-founder-matchmaking",
+      "slug": "co-founder-matchmaking",
+      "title": "Co-founder Matchmaking",
+      "stage": "advisory",
+      "company": "Advosense",
+      "roles": [
+        "Advisor"
+      ],
+      "industries": [
+        "Med-Tech",
+        "Wearables"
+      ],
+      "domains": [
+        "Team Building",
+        "Hiring"
+      ],
+      "location": null,
+      "years": {
+        "start": 2021,
+        "end": 2021
+      },
+      "summary": "Workshops to clarify priorities and identify CTO candidates.",
+      "situation": "Founder developing a smart incontinence management brief required guidance for team building and technical strategy.",
+      "action": "Ran workshops with <a href=\"https://visionhealthpioneers.de/advosense-the-future-of-geriatric-care-is-smart-and-patient-centric/\" target=\"_blank\" rel=\"noopener noreferrer\">founding team</a> to isolate development priorities and candidate CTOs.",
+      "result": "Founder hired a CTO from one of the workshops I held.",
+      "metrics": {},
+      "lesson": "Founder matchmaking is a high-stakes puzzle.",
+      "tech": [],
+      "tags": [],
+      "status": "placed",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.advosense.com/"
+        },
+        {
+          "type": "link",
+          "url": "https://www.linkedin.com/in/amerj/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/co-founder-matchmaking.png"
+      ]
+    },
+    {
       "id": "ad-sustainable-design-narrative",
       "slug": "sustainable-design-narrative",
       "title": "Sustainable Design Narrative",
@@ -545,304 +799,6 @@
       },
       "images": [
         "https://yourdomain.com/images/sustainable-design-narrative.png"
-      ]
-    },
-    {
-      "id": "ad-brain-imaging-prototype-strategy",
-      "slug": "brain-imaging-prototype-strategy",
-      "title": "Brain Imaging Prototype Strategy",
-      "stage": "advisory",
-      "company": "High Frontier Technologies",
-      "roles": [
-        "Advisor"
-      ],
-      "industries": [
-        "Astro",
-        "Biomedical Imaging"
-      ],
-      "domains": [
-        "Fundraising",
-        "Prototype Strategy"
-      ],
-      "location": null,
-      "years": {
-        "start": 2020,
-        "end": 2020
-      },
-      "summary": "Prototype & fundraising guidance for brain-injury triage device (spaceflight context).",
-      "situation": "Founder exploring terahertz/NIR imaging needed strategy for funding and development.",
-      "action": "Advised prototype plan and grant strategy; supported pitches.",
-      "result": "CSA Deep Space Healthcare grant won; probe concept published at IAC 2022.",
-      "metrics": {},
-      "lesson": "Scientists need product strategy guidance.",
-      "tech": [],
-      "tags": [],
-      "status": "grant-funded",
-      "confidentiality": "public",
-      "links": [
-        {
-          "type": "link",
-          "url": "https://www.asc-csa.gc.ca/eng/health/deep-space-healthcare-challenge.asp"
-        },
-        {
-          "type": "link",
-          "url": "https://discovery.ucl.ac.uk/id/eprint/10199251/"
-        },
-        {
-          "type": "link",
-          "url": "https://www.youtube.com/watch?v=1Ih2j5WIyLM"
-        }
-      ],
-      "media": [],
-      "display": {
-        "featured": false,
-        "order": null
-      },
-      "images": [
-        "https://yourdomain.com/images/brain-imaging-prototype-strategy.png"
-      ]
-    },
-    {
-      "id": "ad-co-founder-matchmaking",
-      "slug": "co-founder-matchmaking",
-      "title": "Co-founder Matchmaking",
-      "stage": "advisory",
-      "company": "Advosense",
-      "roles": [
-        "Advisor"
-      ],
-      "industries": [
-        "Med-Tech",
-        "Wearables"
-      ],
-      "domains": [
-        "Team Building",
-        "Hiring"
-      ],
-      "location": null,
-      "years": {
-        "start": 2020,
-        "end": 2020
-      },
-      "summary": "Workshops to clarify priorities and identify CTO candidates.",
-      "situation": "Founder building smart incontinence brief needed team & technical strategy.",
-      "action": "Ran workshops to isolate priorities and shortlist candidates.",
-      "result": "CTO hired from workshop participants.",
-      "metrics": {},
-      "lesson": "Founder matchmaking is a high-stakes puzzle.",
-      "tech": [],
-      "tags": [],
-      "status": "placed",
-      "confidentiality": "public",
-      "links": [
-        {
-          "type": "link",
-          "url": "https://www.advosense.com/"
-        },
-        {
-          "type": "link",
-          "url": "https://www.linkedin.com/in/amerj/"
-        }
-      ],
-      "media": [],
-      "display": {
-        "featured": false,
-        "order": null
-      },
-      "images": [
-        "https://yourdomain.com/images/co-founder-matchmaking.png"
-      ]
-    },
-    {
-      "id": "ad-go-to-market-strategy-development",
-      "slug": "go-to-market-strategy-development",
-      "title": "Go-to-Market Strategy Development",
-      "stage": "advisory",
-      "company": "ThinkDeep Technologies",
-      "roles": [
-        "Advisor"
-      ],
-      "industries": [
-        "Dev Tools",
-        "MLOps"
-      ],
-      "domains": [
-        "GTM",
-        "Fundraising"
-      ],
-      "location": null,
-      "years": {
-        "start": 2020,
-        "end": 2020
-      },
-      "summary": "GTM & fundraising strategy for GPU cost-management tech.",
-      "situation": "Technical founder needed product and fundraising guidance.",
-      "action": "Guided requirement validation, early customer engagement, and pitch creation.",
-      "result": "Applied to Germany AI incubator.",
-      "metrics": {},
-      "lesson": "Technologists need communication training.",
-      "tech": [],
-      "tags": [],
-      "status": "in-progress",
-      "confidentiality": "public",
-      "links": [
-        {
-          "type": "link",
-          "url": "https://www.linkedin.com/in/timotheus-gmeiner-83b4ba43/"
-        }
-      ],
-      "media": [],
-      "display": {
-        "featured": false,
-        "order": null
-      },
-      "images": [
-        "https://yourdomain.com/images/go-to-market-strategy-development.png"
-      ]
-    },
-    {
-      "id": "mi-structural-response-simulation",
-      "slug": "structural-response-simulation",
-      "title": "Structural Response Simulation",
-      "stage": "miscellaneous",
-      "company": "Thesis Research",
-      "roles": [
-        "Research"
-      ],
-      "industries": [
-        "Aerospace"
-      ],
-      "domains": [
-        "Dynamics",
-        "Signal Processing"
-      ],
-      "location": null,
-      "years": {
-        "start": 2020,
-        "end": 2020
-      },
-      "summary": "Vibration analysis and mitigation recommendations for hybrid rocket test stand.",
-      "situation": "Lab-scale hybrid rocket stand exhibited unstable vibrations.",
-      "action": "Built simulations from vibration data; recommended instrumentation and protocols.",
-      "result": "Analysis supported conference presentation.",
-      "metrics": {},
-      "lesson": "Signal processing is a dark art.",
-      "tech": [],
-      "tags": [],
-      "status": "published",
-      "confidentiality": "public",
-      "links": [
-        {
-          "type": "link",
-          "url": "https://www.torontomu.ca/prf/"
-        }
-      ],
-      "media": [],
-      "display": {
-        "featured": false,
-        "order": null
-      },
-      "images": [
-        "https://yourdomain.com/images/hybridrocket.png"
-      ]
-    },
-    {
-      "id": "mi-high-altitude-balloon-microsatellite",
-      "slug": "high-altitude-balloon-microsatellite",
-      "title": "High-Altitude Balloon Microsatellite",
-      "stage": "miscellaneous",
-      "company": "Thesis Project",
-      "roles": [
-        "Research",
-        "Systems"
-      ],
-      "industries": [
-        "Aerospace",
-        "Education"
-      ],
-      "domains": [
-        "HAB",
-        "Education"
-      ],
-      "location": null,
-      "years": {
-        "start": 2020,
-        "end": 2020
-      },
-      "summary": "NSERC-backed educational prototyping kit; balloon to ~24 km.",
-      "situation": "Grant-supported kit for educational use.",
-      "action": "Developed and launched high-altitude balloon microsatellite.",
-      "result": "Presented at student conference in Istanbul.",
-      "metrics": {},
-      "lesson": "If you don’t ask, you don’t get.",
-      "tech": [],
-      "tags": [],
-      "status": "shipped",
-      "confidentiality": "public",
-      "links": [
-        {
-          "type": "link",
-          "url": "https://www.torontomu.ca/prf/"
-        }
-      ],
-      "media": [],
-      "display": {
-        "featured": false,
-        "order": null
-      },
-      "images": [
-        "https://yourdomain.com/images/high-altitude-balloon-microsatellite.png"
-      ]
-    },
-    {
-      "id": "mi-film-development-technical-advisory",
-      "slug": "film-development-technical-advisory",
-      "title": "Film Development Technical Advisory",
-      "stage": "miscellaneous",
-      "company": "Smuggler",
-      "roles": [
-        "Technical Advisor"
-      ],
-      "industries": [
-        "Cinema",
-        "Creative Research"
-      ],
-      "domains": [
-        "Worldbuilding",
-        "Narrative"
-      ],
-      "location": null,
-      "years": {
-        "start": 2020,
-        "end": 2020
-      },
-      "summary": "Scientific essays supporting narrative/worldbuilding on faith & AI.",
-      "situation": "Director exploring the boundaries of faith and synthetic intelligence.",
-      "action": "Guided narrative with essays blending neuroscience, metaphysics, AI, consciousness.",
-      "result": "Created assets for producer pitch discussions.",
-      "metrics": {},
-      "lesson": "Exploring science through art is rewarding.",
-      "tech": [],
-      "tags": [],
-      "status": "in-progress",
-      "confidentiality": "partial",
-      "links": [
-        {
-          "type": "link",
-          "url": "https://smugglersite.com/"
-        },
-        {
-          "type": "link",
-          "url": "https://smugglersite.com/global/commercial/directors/miles-jay/"
-        }
-      ],
-      "media": [],
-      "display": {
-        "featured": false,
-        "order": null
-      },
-      "images": [
-        "https://yourdomain.com/images/film-development-technical-advisory.png"
       ]
     },
     {
@@ -1398,6 +1354,100 @@
       ]
     },
     {
+      "id": "mi-high-altitude-balloon-microsatellite",
+      "slug": "high-altitude-balloon-microsatellite",
+      "title": "High-Altitude Balloon Microsatellite",
+      "stage": "miscellaneous",
+      "company": "Thesis Project",
+      "roles": [
+        "Research",
+        "Systems"
+      ],
+      "industries": [
+        "Aerospace",
+        "Education"
+      ],
+      "domains": [
+        "HAB",
+        "Education"
+      ],
+      "location": null,
+      "years": {
+        "start": 2012,
+        "end": 2012
+      },
+      "summary": "NSERC-backed educational prototyping kit; balloon to ~24 km.",
+      "situation": "Leveraged a grant from the National Science and Engineering Research Council of Canada (<a href=\"https://nserc-crsng.canada.ca/en\" target=\"_blank\" rel=\"noopener noreferrer\">NSERC</a>) to develop a high-altitude balloon prototyping kit for use as an educational tool.",
+      "action": "Developed and launched a high-altitude balloon microsatellite to ~24km altitude.",
+      "result": "Presented at a student conference in Istanbul.",
+      "metrics": {},
+      "lesson": "If you don’t ask, you don’t get.",
+      "tech": [],
+      "tags": [],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.torontomu.ca/prf/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/high-altitude-balloon-microsatellite.png"
+      ]
+    },
+    {
+      "id": "mi-structural-response-simulation",
+      "slug": "structural-response-simulation",
+      "title": "Structural Response Simulation",
+      "stage": "miscellaneous",
+      "company": "Thesis Research",
+      "roles": [
+        "Research"
+      ],
+      "industries": [
+        "Aerospace"
+      ],
+      "domains": [
+        "Dynamics",
+        "Signal Processing"
+      ],
+      "location": null,
+      "years": {
+        "start": 2012,
+        "end": 2012
+      },
+      "summary": "Vibration analysis and mitigation recommendations for hybrid rocket test stand.",
+      "situation": "Previous student built a laboratory-scale hybrid rocket test stand that exhibited unstable vibrational characteristics during initial test.",
+      "action": "Built computational simulations using test-firing vibration measurements and developed instrument and protocol recommendations to mitigate low-to-mid-frequence oscillations.",
+      "result": "My analysis supported a conference presentation by the <a href=\"https://www.torontomu.ca/prf/\" target=\"_blank\" rel=\"noopener noreferrer\">TMU Propulsion Research Facility</a>.",
+      "metrics": {},
+      "lesson": "Signal processing is a dark art.",
+      "tech": [],
+      "tags": [],
+      "status": "published",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.torontomu.ca/prf/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/hybridrocket.png"
+      ]
+    },
+    {
       "id": "ju-optical-test-fixtures-and-production-har",
       "slug": "optical-test-fixtures-and-production-hardware",
       "title": "Optical Test Fixtures and Production Hardware",
@@ -1450,15 +1500,6 @@
     }
   ],
   "patents": [
-    {
-      "title": "Generating three-dimensional representations of objects using diffusion models",
-      "number": null,
-      "jurisdiction": "US",
-      "kind": null,
-      "status": "patent pending",
-      "assignee": null,
-      "url": null
-    },
     {
       "title": "System for medical device asset management via distributed ledgers",
       "number": "US20190065681",
@@ -1532,13 +1573,31 @@
       "url": "https://patents.google.com/patent/US20180116724A1"
     },
     {
-      "title": "Unknown (additional Synaptive filing referenced by link list)",
+      "title": "Simulated tissue products and methods",
       "number": "US20180308393",
       "jurisdiction": "US",
       "kind": "A1",
       "status": "application",
       "assignee": "Synaptive Medical",
       "url": "https://patents.google.com/patent/US20180308393A1"
+    },
+    {
+      "title": "Anatomical simulators produced using 3D printing",
+      "number": "US20170291359A1",
+      "jurisdiction": "US",
+      "kind": "A1",
+      "status": "granted",
+      "assignee": "Synaptive Medical",
+      "url": "https://patents.google.com/patent/US20170291359A1"
+    },
+    {
+      "title": "(US Patent Pending) Generating three-dimensional representations of objects using diffusion models",
+      "number": null,
+      "jurisdiction": "US",
+      "kind": null,
+      "status": "patent pending",
+      "assignee": null,
+      "url": null
     }
   ],
   "press": [
@@ -1548,60 +1607,11 @@
       "year": null,
       "url": "https://develop3d.com/plm/autodesk-lays-the-foundations-for-ai/",
       "related_project_slug": "blankai"
-    },
-    {
-      "title": "Move to Zero (campaign reference)",
-      "outlet": "Nike (YouTube)",
-      "year": null,
-      "url": "https://www.youtube.com/watch?v=IqxU5ZwIyAY",
-      "related_project_slug": "sustainable-design-narrative"
-    },
-    {
-      "title": "Sustainability initiative (campaign clip)",
-      "outlet": "Nike (TikTok)",
-      "year": null,
-      "url": "https://www.tiktok.com/@nike/video/7137334004218580270?lang=en",
-      "related_project_slug": "sustainable-design-narrative"
-    },
-    {
-      "title": "B.I.L.L. (Bot Initiated Longevity Lab) announcement",
-      "outlet": "Nike Newsroom",
-      "year": null,
-      "url": "https://about.nike.com/en/newsroom/releases/bill-bot-initiated-longevity-lab",
-      "related_project_slug": "sustainable-design-narrative"
-    },
-    {
-      "title": "Autodesk lays the foundations for AI",
-      "outlet": "Develop3D",
-      "year": 2023,
-      "url": "https://develop3d.com/plm/autodesk-lays-the-foundations-for-ai/",
-      "related_project_slug": "blankai"
-    },
-    {
-      "title": "Autodesk expands Fusion capabilities, leveraging AI to unlock automation and creativity across design and make",
-      "outlet": "Autodesk News",
-      "year": 2024,
-      "url": "https://adsknews.autodesk.com/en/news/fusion-industry-cloud-unlocks-ai/",
-      "related_project_slug": "blankai"
     }
   ],
   "publications": [
     {
-      "title": "A novel diffusion tensor imaging phantom that simulates complex neuro-architecture",
-      "venue": "ISMRM",
-      "year": 2016,
-      "url": "https://archive.ismrm.org/2016/3061.html",
-      "related_project_slug": "mri-quality-control-device"
-    },
-    {
-      "title": "3D-printed prosthetics for the developing world (SIGGRAPH poster/paper)",
-      "venue": "SIGGRAPH / Autodesk Research",
-      "year": null,
-      "url": "https://www.research.autodesk.com/app/uploads/2023/03/3dprinted-prosthetics-for-the.pdf_recy5wktAGLbzrEko.pdf",
-      "related_project_slug": "prosthetic-quality-assurance"
-    },
-    {
-      "title": "XDGAN (project page)",
+      "title": "XDGAN: Multi-Modal 3D Shape Generation in 2D Space",
       "venue": "NVIDIA Toronto AI Lab",
       "year": null,
       "url": "https://research.nvidia.com/labs/toronto-ai/XDGAN/",
@@ -1615,20 +1625,18 @@
       "related_project_slug": "brain-imaging-prototype-strategy"
     },
     {
-      "title": "How to prepare for the AI future in Automotive Design",
-      "venue": "Car Design News",
-      "year": 2024,
-      "type": "Webinar",
-      "url": "https://www.youtube.com/watch?v=HJr79zo-rvs&t=2763s",
-      "related_project_slug": "ai-research-collaboration"
+      "title": "A novel diffusion tensor imaging phantom that simulates complex neuro-architecture",
+      "venue": "ISMRM",
+      "year": 2016,
+      "url": "https://archive.ismrm.org/2016/3061.html",
+      "related_project_slug": "mri-quality-control-device"
     },
     {
-      "title": "Solving Business Problems with AI",
-      "venue": "Toronto Machine Learning Workshop",
-      "year": 2023,
-      "type": "Conference Presentation",
-      "url": "https://drive.google.com/file/d/1uzgzkbxCGD-QJTYUDfnfIg0nnYk6iMf3/view",
-      "related_project_slug": "ai-research-collaboration"
+      "title": "3D-Printed Prosthetics for the Developing World",
+      "venue": "SIGGRAPH / Autodesk Research",
+      "year": 2015,
+      "url": "https://www.research.autodesk.com/app/uploads/2023/03/3dprinted-prosthetics-for-the.pdf_recy5wktAGLbzrEko.pdf",
+      "related_project_slug": "prosthetic-quality-assurance"
     }
   ]
 }

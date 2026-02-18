@@ -13,6 +13,7 @@ const IMAGE_FILENAME_MAP = {
   'sustainable-design-narrative.png': 'nike2050.png',
   'brain-imaging-prototype-strategy.png': 'terahertzimaging.png',
   'high-altitude-balloon-microsatellite.png': 'student_microsat.png',
+  'design-process-automation.png': 'secret_project.png',
   'co-founder-matchmaking.png': 'secret_project.png',
   'go-to-market-strategy-development.png': 'secret_project.png',
   'film-development-technical-advisory.png': 'secret_project.png',

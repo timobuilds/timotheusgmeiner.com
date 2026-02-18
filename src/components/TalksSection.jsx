@@ -9,7 +9,13 @@ export function TalksSection({ talks }) {
             key={talk.text}
             className={`list-item ${talk.active ? 'list-item-active' : ''}`}
           >
-            {talk.text}
+            {talk.url ? (
+              <a href={talk.url} target="_blank" rel="noopener noreferrer">
+                {talk.text}
+              </a>
+            ) : (
+              talk.text
+            )}
           </div>
         ))}
       </div>
