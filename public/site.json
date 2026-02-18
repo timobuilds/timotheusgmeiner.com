@@ -15,7 +15,7 @@
       ]
     },
     "clients": {
-      "intro": "I work with executive leadership and innovation teams of all shapes and sizes.",
+      "intro": "I work with executive leadership and innovation teams across startups, research labs, and global enterprises.",
       "list": [
         "Worldcoin",
         "Richemont",
@@ -90,14 +90,14 @@
     {
       "id": "ad-design-process-automation",
       "slug": "design-process-automation",
-      "title": "Design Process Automation",
+      "title": "Automotive Design Process Automation",
       "stage": "advanced",
       "company": "Autodesk",
       "roles": [
         "Product Lead"
       ],
       "industries": [
-        "Automotive"
+        "AI"
       ],
       "domains": [
         "AI",
