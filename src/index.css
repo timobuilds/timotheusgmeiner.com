@@ -8,8 +8,10 @@ body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 1
 .nav { width: 60px; height: 100vh; display: flex; flex-direction: column; align-items: center; padding: 20px; border-right: 1px solid rgba(0,0,0,0.1); position: fixed; top: 0; left: 0; z-index: 10; flex-shrink: 0; }
 .nav-inner { display: flex; flex-direction: column; align-items: center; gap: 45px; flex: 1; min-height: 0; }
 .nav-top { display: flex; flex-direction: column; gap: 20px; align-items: flex-start; }
-.nav-photo { display: flex; align-items: center; justify-content: center; cursor: pointer; }
+.nav-photo { position: relative; display: flex; align-items: center; justify-content: center; cursor: pointer; }
 .nav-photo img { width: 35px; height: 35px; border-radius: 50%; object-fit: cover; }
+.nav-photo .nav-photo-hover { position: absolute; inset: 0; opacity: 0; transition: opacity 0.2s; }
+.nav-photo:hover .nav-photo-hover { opacity: 1; }
 .nav-spacer { flex-grow: 1; }
 .nav-links { display: flex; flex-direction: column; align-items: center; gap: 20px; flex-shrink: 0; }
 .nav-link { color: #000; text-decoration: underline; font-size: 12px; transition: opacity 0.2s; }

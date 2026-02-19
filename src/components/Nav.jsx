@@ -11,8 +11,16 @@ export function Nav({ contact }) {
     <nav className="nav">
       <div className="nav-inner">
         <div className="nav-top">
-          <a href="#" className="nav-photo">
-            <img src="/timo_1.png" alt="" width="35" height="35" />
+          <a
+            href="#"
+            className="nav-photo"
+            onClick={(e) => {
+              e.preventDefault()
+              window.scrollTo({ top: 0, behavior: 'smooth' })
+            }}
+          >
+            <img src="/timo_1.png" alt="" width="35" height="35" className="nav-photo-default" />
+            <img src="/timo_2.png" alt="" width="35" height="35" className="nav-photo-hover" />
           </a>
         </div>
         <div className="nav-spacer" />
