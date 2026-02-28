@@ -100,7 +100,7 @@
     {
       "id": "ad-design-process-automation",
       "slug": "design-process-automation",
-      "title": "Automotive Design Process Automation",
+      "title": "Enterprise software AI product management",
       "stage": "advanced",
       "company": "Autodesk",
       "roles": [
@@ -119,11 +119,11 @@
         "end": null
       },
       "summary": "Integrating AI into premium automotive design and visualization tools.",
-      "situation": "The world's leading automotive <a href=\"https://www.autodesk.com/products/alias-products/overview\" target=\"_blank\" rel=\"noopener noreferrer\">design</a> and <a href=\"https://www.autodesk.com/products/vred/overview\" target=\"_blank\" rel=\"noopener noreferrer\">visualization</a> software suite is integrating internal AI research and external AI capabilities into targeted workflow automations.",
-      "action": "Managing product conceptualization, AI strategy, roadmapping, prototyping, and global enterprise customer engagements.",
-      "result": "Several features shipped, many features prototyped. <a href=\"https://youtu.be/rTNkIo0L1Uc?si=u8aSQ53AG0O9KzTR&t=1641\" target=\"_blank\" rel=\"noopener noreferrer\">Watch me present</a> some of these features in our Automotive Innovation Forum 2025.",
+      "situation": "Leading cross-team program integrating internal AI research and external AI capabilities into the world's leading automotive <a href=\"https://www.autodesk.com/products/alias-products/overview\" target=\"_blank\" rel=\"noopener noreferrer\">design</a> and <a href=\"https://www.autodesk.com/products/vred/overview\" target=\"_blank\" rel=\"noopener noreferrer\">visualization</a> software suite.",
+      "action": "Own AI capability development, coordinating between diverse sets of technical/non-technical distributed teams, managing dependencies and risks, driving prototyping and feature delivery, while engaging global enterprise customers.",
+      "result": "Shipping several AI-powered workflow automation features adopted by key automotive clients. See <a href=\"https://help.autodesk.com/view/ALIAS/2026/ENU/?guid=Form_Explorer_form_explorer_overview_html\" target=\"_blank\" rel=\"noopener noreferrer\">Form Explorer</a>. Many more features prototyped. <a href=\"https://youtu.be/rTNkIo0L1Uc?si=u8aSQ53AG0O9KzTR&t=1641\" target=\"_blank\" rel=\"noopener noreferrer\">Watch me present</a> some of these features in our Automotive Innovation Forum 2025.",
       "metrics": {},
-      "lesson": "Big ships have lots of momentum.",
+      "lesson": "Scaling innovation in a large org requires steering cross-functional teams with persistent, aligned communication.",
       "tech": [],
       "tags": [],
       "status": "in-progress",
