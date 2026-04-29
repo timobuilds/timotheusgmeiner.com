@@ -37,6 +37,10 @@ Worldcoin, Richemont, Nike, Autodesk, Siemens Energy, Continental, Rocket Lab (S
 
 ## Work History
 
+### 2026
+
+- [Private Voice Transcription App](https://www.tryvox.work/): Independent product (Vox). Built a private, local-first, multi-lingual voice transcription app for macOS that replaces cloud-based dictation tools like Wispr Flow. Evaluated trade-offs across quantized speech-to-text models and shipped on Cohere Transcribe (2B-parameter open-weight ASR running on-device).
+
 ### Current Role (2023–Present)
 
 - [Automotive Design Process Automation](https://www.autodesk.com/products/alias-products/overview): Product Lead at Autodesk. Integrating internal AI research and external AI capabilities into targeted workflow automations for the world's leading automotive design (Alias) and visualization (VRED) software suite. Managing product conceptualization, AI strategy, roadmapping, prototyping, and global enterprise customer engagements. Several features shipped, many features prototyped.

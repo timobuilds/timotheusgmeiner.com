@@ -148,6 +148,58 @@
       ]
     },
     {
+      "id": "ad-private-voice-transcription-app",
+      "slug": "private-voice-transcription-app",
+      "title": "Private voice transcription app",
+      "stage": "advanced",
+      "company": "Build Wonder",
+      "roles": [
+        "Builder"
+      ],
+      "industries": [
+        "AI"
+      ],
+      "domains": [
+        "Local AI",
+        "Speech"
+      ],
+      "location": null,
+      "years": {
+        "start": 2026,
+        "end": 2026
+      },
+      "summary": "Private, local, multi-lingual voice transcription for Mac.",
+      "situation": "I've been exploring the development of private AI applications that leverage the latest development of local AI models. My focus has been on workflows and tools that fill my day. The focus of this project has been replacing my use of <a href=\"https://wisprflow.ai/\" target=\"_blank\" rel=\"noopener noreferrer\">Wispr Flow</a> in vibe coding exploration.",
+      "action": "Explored trade-offs between various quantized transcription models. Landed on Cohere Transcribe.",
+      "result": "Multi-lingual, work-safe transcription application for Mac. You can <a href=\"https://www.tryvox.work/\" target=\"_blank\" rel=\"noopener noreferrer\">download Vox for free</a>.",
+      "metrics": {},
+      "lesson": "The best way to evaluate a model is to ship it.",
+      "tech": [
+        "Cohere Transcribe",
+        "GGUF"
+      ],
+      "tags": [
+        "personal",
+        "local-ai"
+      ],
+      "status": "shipped",
+      "confidentiality": "public",
+      "links": [
+        {
+          "type": "link",
+          "url": "https://www.tryvox.work/"
+        }
+      ],
+      "media": [],
+      "display": {
+        "featured": false,
+        "order": null
+      },
+      "images": [
+        "https://yourdomain.com/images/vox.png"
+      ]
+    },
+    {
       "id": "mi-film-development-technical-advisory",
       "slug": "film-development-technical-advisory",
       "title": "Film Development Technical Advisory",
