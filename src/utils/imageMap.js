@@ -17,7 +17,6 @@ const IMAGE_FILENAME_MAP = {
   'co-founder-matchmaking.png': 'secret_project.png',
   'go-to-market-strategy-development.png': 'secret_project.png',
   'film-development-technical-advisory.png': 'secret_project.png',
-  'tech-scouting.png': 'raman.png',
 }
 
 export function getProjectImageUrl(project) {
