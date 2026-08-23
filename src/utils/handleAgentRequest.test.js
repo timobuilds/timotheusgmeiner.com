@@ -4,11 +4,10 @@ import { resolveAgentResponse } from './handleAgentRequest.js'
 describe('resolveAgentResponse', () => {
   it('serves markdown with Vary: Accept for the homepage', () => {
     const res = resolveAgentResponse('/', 'text/markdown')
-    expect(res.kind).toBe('response')
-    expect(res.status).toBe(200)
+    expect(res.kind).toBe('fetch-markdown')
+    expect(res.path).toBe('/index.md')
     expect(res.headers['content-type']).toBe('text/markdown; charset=utf-8')
     expect(res.headers.vary).toMatch(/Accept/)
-    expect(res.body.startsWith('# Timotheus Gmeiner')).toBe(true)
   })
 
   it('returns a markdown 404 with recovery links for unknown paths', () => {

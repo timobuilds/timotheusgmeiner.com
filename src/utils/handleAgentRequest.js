@@ -4,9 +4,10 @@ import {
   isMachineFile,
   isMarkdownAlias,
   isStaticAsset,
+  markdownPathFor,
   normalizePath,
 } from './knownPaths.js'
-import { getMarkdownForPath, notFoundHtml, notFoundMarkdown } from './siteIdentity.js'
+import { notFoundHtml, notFoundMarkdown } from './notFound.js'
 
 export const VARY_HEADERS = { vary: VARY_ACCEPT }
 
@@ -29,19 +30,17 @@ export function resolveAgentResponse(pathname, acceptHeader) {
   }
 
   if (type === TYPE_MARKDOWN || isMarkdownAlias(path)) {
-    const md = getMarkdownForPath(path)
-    if (!md) {
+    if (isKnownHtmlPath(path) || isMarkdownAlias(path)) {
       return {
-        kind: 'response',
-        status: 404,
-        body: notFoundMarkdown(),
+        kind: 'fetch-markdown',
+        path: markdownPathFor(path),
         headers: { ...VARY_HEADERS, 'content-type': 'text/markdown; charset=utf-8' },
       }
     }
     return {
       kind: 'response',
-      status: 200,
-      body: md,
+      status: 404,
+      body: notFoundMarkdown(),
       headers: { ...VARY_HEADERS, 'content-type': 'text/markdown; charset=utf-8' },
     }
   }

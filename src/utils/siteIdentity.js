@@ -1,5 +1,8 @@
 import siteData from '../../public/site.json' with { type: 'json' }
 import { htmlPathForMarkdown, isMarkdownAlias, normalizePath } from './knownPaths.js'
+import { notFoundHtml, notFoundMarkdown } from './notFound.js'
+
+export { notFoundHtml, notFoundMarkdown }
 
 export const CANONICAL_ORIGIN = 'https://www.timotheusgmeiner.com'
 export const SITE_NAME = 'Timotheus Gmeiner'
@@ -136,52 +139,6 @@ export function pageMarkdown(pageId) {
   const trust = getTrustCopy()[pageId]
   if (!trust) return null
   return paragraphsToMarkdown(trust.heading, trust.paragraphs)
-}
-
-export function notFoundMarkdown() {
-  return [
-    '# Not found',
-    '',
-    'That path does not exist on this site. Use one of these next:',
-    '',
-    `- [Homepage](${pageUrl('/')}): portfolio and work list`,
-    `- [About](${pageUrl('/about')}): identity and background`,
-    `- [Contact](${pageUrl('/contact')}): how to reach Timotheus Gmeiner`,
-    `- [Privacy](${pageUrl('/privacy')}): how this site handles data`,
-    `- [llms.txt](${pageUrl('/llms.txt')}): agent index and when to use this work`,
-    `- [llms-full.txt](${pageUrl('/llms-full.txt')}): full CV in markdown`,
-    `- [sitemap.xml](${pageUrl('/sitemap.xml')}): indexable URLs`,
-    '',
-  ].join('\n')
-}
-
-export function notFoundHtml() {
-  const md = notFoundMarkdown()
-  const htmlBody = md
-    .split('\n')
-    .map((line) => {
-      if (line.startsWith('# ')) return `<h1>${escapeHtml(line.slice(2))}</h1>`
-      const linked = escapeHtml(line).replace(
-        /\[([^\]]+)\]\((https?:[^)]+)\)/g,
-        '<a href="$2">$1</a>',
-      )
-      return line.trim() ? `<p>${linked}</p>` : ''
-    })
-    .filter(Boolean)
-    .join('\n')
-  return `<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Not found — ${SITE_NAME}</title>
-    <link rel="canonical" href="${pageUrl('/')}" />
-  </head>
-  <body>
-${htmlBody}
-  </body>
-</html>
-`
 }
 
 export function getMarkdownForPath(pathname) {
