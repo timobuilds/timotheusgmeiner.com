@@ -5,6 +5,7 @@ export function AboutSection({ content }) {
   return (
     <div className="about-section">
       <section className="section">
+        <h1 className="sr-only">Timotheus Gmeiner</h1>
         <span className="section-title">About</span>
         <p className="body-text">
           {copy}{' '}

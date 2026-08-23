@@ -4,4 +4,5 @@ public/db
 .env
 .env.*
 .DS_Store
+._*
 *.log

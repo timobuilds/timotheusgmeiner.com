@@ -5,6 +5,7 @@ const DOTS_SPINNER = {
   interval: 80,
   frames: ['⠋', '⠙', '⠹', '⠸', '⠼', '⠴', '⠦', '⠧', '⠇', '⠏'],
 }
+import { TrustPage } from './components/TrustPage'
 import { AboutSection } from './components/AboutSection'
 import { PrinciplesSection } from './components/PrinciplesSection'
 import { WorksSection } from './components/WorksSection'
@@ -39,6 +40,11 @@ export default function App() {
         <p>Loading…</p>
       </div>
     )
+  }
+
+  const path = window.location.pathname.replace(/\/+$/, '') || '/'
+  if (path === '/about' || path === '/contact' || path === '/privacy') {
+    return <TrustPage pageId={path.slice(1)} siteData={siteData} />
   }
 
   const { content, projects, patents, press, publications } = siteData
