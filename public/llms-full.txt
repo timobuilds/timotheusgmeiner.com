@@ -174,7 +174,7 @@ Worldcoin, Richemont, Nike, Autodesk, Siemens Energy, Continental, Rocket Lab (S
 
 ## Industries Served
 
-Automotive, AI, Energy, Industrial Automation, Aerospace, Med-Tech, Biomedical Imaging, Crypto/Identity, Retail, Luxury, Textiles, Manufacturing, Cinema, Dev Tools/MLOps, CAD/Research, Microfluidics, Robotics, Optics, Solar Energy, Wearables, Education, Humanitarian.
+Automotive, AI, Energy, Industrial Automation, Aerospace, Med-Tech, Biomedical Imaging, Crypto/Identity, Retail, Luxury, Textiles, Manufacturing, Cinema, CAD/Research, Microfluidics, Robotics, Optics, Solar Energy, Wearables, Education, Humanitarian.
 
 ## Keywords
 
